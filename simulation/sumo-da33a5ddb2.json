@@ -1,0 +1,76 @@
+{
+  "run": "sumo-da33a5ddb2",
+  "events": [
+    {
+      "session": "sumo-da33a5ddb2:16",
+      "run": "sumo-da33a5ddb2",
+      "suspect": "A",
+      "accepted": true,
+      "reporter_count": 4,
+      "yes_votes": 4,
+      "trust_before": 9,
+      "trust_after": 8,
+      "trust_delta": -1,
+      "status": "soft_blocked",
+      "clock": "simulation_seconds",
+      "decision_time": 16.0,
+      "blocked_until": 76.0,
+      "report_txids": [
+        "0d6e6503b0d50aa67c0ac2d4f0d053f1e56e7ef58a2d3e4f1e3ce1d083891898",
+        "2b31cf3b8ae728da419a42729740332bfa84e4e19c95321b22051c3c9151c68c",
+        "8842fe2798c0a808dd78eade9951c52b0fa8552d07a40ef10b6f5cd260b12bab",
+        "dd33bce15931579ffc0b2d10b72227c9b0300b01ec590130bce4598cf1d76421"
+      ],
+      "rsu": "RSU1"
+    },
+    {
+      "session": "sumo-da33a5ddb2:81",
+      "run": "sumo-da33a5ddb2",
+      "suspect": "A",
+      "accepted": true,
+      "reporter_count": 4,
+      "yes_votes": 4,
+      "trust_before": 8,
+      "trust_after": 7,
+      "trust_delta": -1,
+      "status": "soft_blocked",
+      "clock": "simulation_seconds",
+      "decision_time": 81.0,
+      "blocked_until": 141.0,
+      "report_txids": [
+        "338163bac3730fbb2270f8efa2b10127162edcfb7e8da4e4dd6de9ade3a4dbd2",
+        "038586957422ad8ee4277c9a8f959c1359bfbda64dccd7820e5a282e45ed99e2",
+        "2aeff34f8fe05f342b07f64f05e722d31c489c96999c39d2c6ed35887e88b202",
+        "b807beb7401afdc2711d07f8a525c5ffc3f7e2aed49b52be862d94aca872d35b"
+      ],
+      "rsu": "RSU2"
+    }
+  ],
+  "trust": {
+    "A": 7,
+    "B": 13,
+    "C": 13,
+    "D": 13,
+    "E": 13
+  },
+  "credits": {
+    "A": 100,
+    "B": 121,
+    "C": 115,
+    "D": 115,
+    "E": 115
+  },
+  "token_balances": {
+    "A": 0,
+    "B": 21,
+    "C": 15,
+    "D": 15,
+    "E": 15
+  },
+  "detector_metrics": {
+    "TP": 14,
+    "FP": 0,
+    "TN": 83,
+    "FN": 2
+  }
+}

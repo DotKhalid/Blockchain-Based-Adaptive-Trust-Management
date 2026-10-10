@@ -1,0 +1,827 @@
+2026-10-10 17:12:18	Initialized. Chain height: -1, Txs: 0
+2026-10-10 17:12:18	Entity (00000101, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (00000201, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (00000102, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (00000202, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (0000010A, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (0000010B, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (0000010F, 0000000000000000000000000000000000000000) added successfully
+2026-10-10 17:12:18	Entity (00000103, 0349de0d67eb450112d08b030cfa1614b885194b) added successfully
+2026-10-10 17:12:18	Entity (00000203, 0349de0d67eb450112d08b030cfa1614b885194b) added successfully
+2026-10-10 17:12:18	Entity (00000105, 0000000018452fb7e6e6be0d361453f8cc73a37d) added successfully
+2026-10-10 17:12:18	Entity (00000205, 0000000018452fb7e6e6be0d361453f8cc73a37d) added successfully
+2026-10-10 17:12:18	Entity (00000106, 0000000018452fb7e6e6be0d361453f8cc73a37d) added successfully
+2026-10-10 17:12:18	Entity (00000206, 0000000018452fb7e6e6be0d361453f8cc73a37d) added successfully
+2026-10-10 17:12:18	Entity (00000107, 0000000018452fb7e6e6be0d361453f8cc73a37d) added successfully
+2026-10-10 17:12:18	Entity (00000207, 0000000018452fb7e6e6be0d361453f8cc73a37d) added successfully
+2026-10-10 17:12:18	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 0, flags 00000000, import 0
+2026-10-10 17:12:18	NewBlock 0, Txs: 1, Rows: 4
+2026-10-10 17:12:19	NewBlock 1, Txs: 0, Rows: 0
+2026-10-10 17:12:19	NewBlock 2, Txs: 0, Rows: 0
+2026-10-10 17:12:19	NewBlock 3, Txs: 0, Rows: 0
+2026-10-10 17:12:19	NewBlock 4, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 5, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 6, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 7, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 8, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 9, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 10, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 11, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 12, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 13, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 14, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 15, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 16, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 17, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 18, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 19, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 20, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 21, Txs: 0, Rows: 0
+2026-10-10 17:12:20	NewBlock 22, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 23, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 24, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 25, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 26, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 27, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 28, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 29, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 30, Txs: 0, Rows: 0
+2026-10-10 17:12:21	NewBlock 31, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 32, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 33, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 34, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 35, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 36, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 37, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 38, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 39, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 40, Txs: 0, Rows: 0
+2026-10-10 17:12:22	NewBlock 41, Txs: 0, Rows: 0
+2026-10-10 17:12:23	NewBlock 42, Txs: 0, Rows: 0
+2026-10-10 17:12:23	NewBlock 43, Txs: 0, Rows: 0
+2026-10-10 17:12:23	NewBlock 44, Txs: 0, Rows: 0
+2026-10-10 17:12:23	NewBlock 45, Txs: 0, Rows: 0
+2026-10-10 17:12:23	NewBlock 46, Txs: 0, Rows: 0
+2026-10-10 17:12:23	NewBlock 47, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 48, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 49, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 50, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 51, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 52, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 53, Txs: 0, Rows: 0
+2026-10-10 17:12:24	NewBlock 54, Txs: 0, Rows: 0
+2026-10-10 17:12:25	NewBlock 55, Txs: 0, Rows: 0
+2026-10-10 17:12:25	NewBlock 56, Txs: 0, Rows: 0
+2026-10-10 17:12:25	NewBlock 57, Txs: 0, Rows: 0
+2026-10-10 17:12:25	NewBlock 58, Txs: 0, Rows: 0
+2026-10-10 17:12:25	NewBlock 59, Txs: 0, Rows: 0
+2026-10-10 17:12:26	NewTx e19f41660293730acb6804800369751f96d5bb7db53320a8b22e06b2c7f7a24b, block 60, flags 00000004, import 0
+2026-10-10 17:12:26	NewBlock 60, Txs: 1, Rows: 6
+2026-10-10 17:12:26	NewBlock 61, Txs: 0, Rows: 0
+2026-10-10 17:12:26	NewBlock 62, Txs: 0, Rows: 0
+2026-10-10 17:12:27	NewBlock 63, Txs: 0, Rows: 0
+2026-10-10 17:12:28	NewBlock 64, Txs: 0, Rows: 0
+2026-10-10 17:12:29	NewBlock 65, Txs: 0, Rows: 0
+2026-10-10 17:12:30	NewBlock 66, Txs: 0, Rows: 0
+2026-10-10 17:12:32	NewBlock 67, Txs: 0, Rows: 0
+2026-10-10 17:12:34	NewBlock 68, Txs: 0, Rows: 0
+2026-10-10 17:12:36	NewBlock 69, Txs: 0, Rows: 0
+2026-10-10 17:12:39	NewBlock 70, Txs: 0, Rows: 0
+2026-10-10 17:14:16	NewBlock 71, Txs: 0, Rows: 0
+2026-10-10 17:14:18	NewBlock 72, Txs: 0, Rows: 0
+2026-10-10 17:14:19	NewBlock 73, Txs: 0, Rows: 0
+2026-10-10 17:14:21	NewBlock 74, Txs: 0, Rows: 0
+2026-10-10 17:14:23	NewBlock 75, Txs: 0, Rows: 0
+2026-10-10 17:14:24	NewBlock 76, Txs: 0, Rows: 0
+2026-10-10 17:14:26	NewBlock 77, Txs: 0, Rows: 0
+2026-10-10 17:14:28	NewBlock 78, Txs: 0, Rows: 0
+2026-10-10 17:14:30	NewBlock 79, Txs: 0, Rows: 0
+2026-10-10 17:14:31	Rolled back to block 78 successfully
+2026-10-10 17:14:31	NewBlock 79, Txs: 0, Rows: 0
+2026-10-10 17:14:31	NewBlock 80, Txs: 0, Rows: 0
+2026-10-10 17:14:32	NewBlock 81, Txs: 0, Rows: 0
+2026-10-10 17:14:34	Rolled back to block 80 successfully
+2026-10-10 17:14:34	NewBlock 81, Txs: 0, Rows: 0
+2026-10-10 17:14:34	NewBlock 82, Txs: 0, Rows: 0
+2026-10-10 17:17:02	Entity (00000103, e85b3f03cf2a612afe3bde17b395b942b8a67394) added successfully
+2026-10-10 17:17:02	Entity (00000203, e85b3f03cf2a612afe3bde17b395b942b8a67394) added successfully
+2026-10-10 17:17:09	Entity (00000103, b45dda1c8118f6ce0020075a1366126dac29519a) added successfully
+2026-10-10 17:17:09	Entity (00000203, b45dda1c8118f6ce0020075a1366126dac29519a) added successfully
+2026-10-10 17:17:20	Entity (00000103, 8367a3819b2c0e6fb4988082cbef1b11035ce18f) added successfully
+2026-10-10 17:17:20	Entity (00000203, 8367a3819b2c0e6fb4988082cbef1b11035ce18f) added successfully
+2026-10-10 17:22:26	NewTx 6ffa6564bc65328c18f71b0b42ea0633daec6d1a8e2aa31906fc6bf49fc11854, block -1, flags 00000004, import 0
+2026-10-10 17:22:28	UpdateTx 6ffa6564bc, block 83, flags 00000004, import 0
+2026-10-10 17:22:28	NewBlock 83, Txs: 1, Rows: 6
+2026-10-10 17:22:29	NewBlock 84, Txs: 0, Rows: 0
+2026-10-10 17:22:30	NewBlock 85, Txs: 0, Rows: 0
+2026-10-10 17:22:32	NewBlock 86, Txs: 0, Rows: 0
+2026-10-10 17:22:33	NewTx 0110da2e76eee9a13301a40f352b9be1a7564fe5176ab7072304c6df9ff2d369, block -1, flags 00000004, import 0
+2026-10-10 17:22:33	UpdateTx 0110da2e76, block 87, flags 00000004, import 0
+2026-10-10 17:22:33	NewBlock 87, Txs: 1, Rows: 6
+2026-10-10 17:22:34	NewBlock 88, Txs: 0, Rows: 0
+2026-10-10 17:22:37	NewBlock 89, Txs: 0, Rows: 0
+2026-10-10 17:22:37	NewTx 0376fd7f8547c66cf8b85bbd4b0373ea3030ae2dee98cef5da4eed2f70b5d51e, block -1, flags 00000004, import 0
+2026-10-10 17:22:38	UpdateTx 0376fd7f85, block 90, flags 00000004, import 0
+2026-10-10 17:22:38	NewBlock 90, Txs: 1, Rows: 6
+2026-10-10 17:22:39	NewBlock 91, Txs: 0, Rows: 0
+2026-10-10 17:22:41	Rolled back to block 90 successfully
+2026-10-10 17:22:41	NewBlock 91, Txs: 0, Rows: 0
+2026-10-10 17:22:42	NewBlock 92, Txs: 0, Rows: 0
+2026-10-10 17:22:44	NewBlock 93, Txs: 0, Rows: 0
+2026-10-10 17:22:46	NewBlock 94, Txs: 0, Rows: 0
+2026-10-10 17:22:50	NewBlock 95, Txs: 0, Rows: 0
+2026-10-10 17:22:52	Rolled back to block 94 successfully
+2026-10-10 17:22:52	NewBlock 95, Txs: 0, Rows: 0
+2026-10-10 17:22:52	NewBlock 96, Txs: 0, Rows: 0
+2026-10-10 17:22:54	NewBlock 97, Txs: 0, Rows: 0
+2026-10-10 17:22:56	NewBlock 98, Txs: 0, Rows: 0
+2026-10-10 17:22:57	NewBlock 99, Txs: 0, Rows: 0
+2026-10-10 17:22:59	NewBlock 100, Txs: 0, Rows: 0
+2026-10-10 17:23:02	NewBlock 101, Txs: 0, Rows: 0
+2026-10-10 17:23:02	NewBlock 102, Txs: 0, Rows: 0
+2026-10-10 17:23:04	NewBlock 103, Txs: 0, Rows: 0
+2026-10-10 17:23:07	NewBlock 104, Txs: 0, Rows: 0
+2026-10-10 17:23:09	Rolled back to block 103 successfully
+2026-10-10 17:23:09	NewBlock 104, Txs: 0, Rows: 0
+2026-10-10 17:23:09	NewBlock 105, Txs: 0, Rows: 0
+2026-10-10 17:24:14	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:24:18	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 106, flags 00000000, import 0
+2026-10-10 17:24:18	NewBlock 106, Txs: 0, Rows: 3
+2026-10-10 17:24:18	NewBlock 107, Txs: 0, Rows: 0
+2026-10-10 17:24:19	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:24:20	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 108, flags 00000000, import 0
+2026-10-10 17:24:20	NewBlock 108, Txs: 0, Rows: 3
+2026-10-10 17:24:21	NewBlock 109, Txs: 0, Rows: 0
+2026-10-10 17:24:23	NewBlock 110, Txs: 0, Rows: 0
+2026-10-10 17:24:24	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:24:25	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 111, flags 00000000, import 0
+2026-10-10 17:24:25	NewBlock 111, Txs: 0, Rows: 3
+2026-10-10 17:24:26	NewBlock 112, Txs: 0, Rows: 0
+2026-10-10 17:24:28	NewBlock 113, Txs: 0, Rows: 0
+2026-10-10 17:24:31	NewBlock 114, Txs: 0, Rows: 0
+2026-10-10 17:24:32	NewBlock 115, Txs: 0, Rows: 0
+2026-10-10 17:24:34	NewBlock 116, Txs: 0, Rows: 0
+2026-10-10 17:24:35	NewBlock 117, Txs: 0, Rows: 0
+2026-10-10 17:24:38	NewBlock 118, Txs: 0, Rows: 0
+2026-10-10 17:24:42	NewBlock 119, Txs: 0, Rows: 0
+2026-10-10 17:24:44	NewBlock 120, Txs: 0, Rows: 0
+2026-10-10 17:24:46	NewBlock 121, Txs: 0, Rows: 0
+2026-10-10 17:24:47	NewBlock 122, Txs: 0, Rows: 0
+2026-10-10 17:25:05	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:25:08	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 123, flags 00000000, import 0
+2026-10-10 17:25:08	NewBlock 123, Txs: 0, Rows: 3
+2026-10-10 17:25:08	NewBlock 124, Txs: 0, Rows: 0
+2026-10-10 17:25:10	NewBlock 125, Txs: 0, Rows: 0
+2026-10-10 17:25:11	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:25:12	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 126, flags 00000000, import 0
+2026-10-10 17:25:12	NewBlock 126, Txs: 0, Rows: 3
+2026-10-10 17:25:15	NewBlock 127, Txs: 0, Rows: 0
+2026-10-10 17:25:16	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:25:16	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:25:16	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:25:18	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 129, flags 00000000, import 0
+2026-10-10 17:25:18	NewBlock 129, Txs: 0, Rows: 3
+2026-10-10 17:25:19	Rolled back to block 128 successfully
+2026-10-10 17:25:19	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:25:19	Rolled back to block 127 successfully
+2026-10-10 17:25:19	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block -1, flags 00000000, import 0
+2026-10-10 17:25:19	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:25:20	NewData 00000000000000000000014b0000000000000000000000000000000000000002, block 129, flags 00000000, import 0
+2026-10-10 17:25:20	NewBlock 129, Txs: 0, Rows: 3
+2026-10-10 17:25:20	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:25:21	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:25:23	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:25:25	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:25:27	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:25:31	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:25:33	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:25:35	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:25:37	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:25:38	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:25:41	Rolled back to block 138 successfully
+2026-10-10 17:25:41	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:25:41	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:30	Entity (00000105, 0000000055fa55c212f10eec5bc7bac920260fa0) added successfully
+2026-10-10 17:27:30	Entity (00000205, 0000000055fa55c212f10eec5bc7bac920260fa0) added successfully
+2026-10-10 17:27:30	Entity (00000106, 0000000055fa55c212f10eec5bc7bac920260fa0) added successfully
+2026-10-10 17:27:30	Entity (00000206, 0000000055fa55c212f10eec5bc7bac920260fa0) added successfully
+2026-10-10 17:27:30	Entity (00000107, 0000000055fa55c212f10eec5bc7bac920260fa0) added successfully
+2026-10-10 17:27:30	Entity (00000207, 0000000055fa55c212f10eec5bc7bac920260fa0) added successfully
+2026-10-10 17:27:30	Starting new import 1 with 6 entities from block 105
+2026-10-10 17:27:30	Import: 1, Entity: (00000105, 0000000055fa55c212f10eec5bc7bac920260fa0), transferred txs: 0
+2026-10-10 17:27:30	Import: 1, Entity: (00000205, 0000000055fa55c212f10eec5bc7bac920260fa0), transferred txs: 0
+2026-10-10 17:27:30	Import: 1, Entity: (00000106, 0000000055fa55c212f10eec5bc7bac920260fa0), transferred txs: 0
+2026-10-10 17:27:30	Import: 1, Entity: (00000206, 0000000055fa55c212f10eec5bc7bac920260fa0), transferred txs: 0
+2026-10-10 17:27:30	Import: 1, Entity: (00000107, 0000000055fa55c212f10eec5bc7bac920260fa0), transferred txs: 0
+2026-10-10 17:27:30	Import: 1, Entity: (00000207, 0000000055fa55c212f10eec5bc7bac920260fa0), transferred txs: 0
+2026-10-10 17:27:30	Import 1 successfully started
+2026-10-10 17:27:30	NewBlock 106, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 107, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 108, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 109, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 110, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 111, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 112, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 113, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 114, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 115, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 116, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 117, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 118, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 119, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 120, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 121, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 122, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 123, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 124, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 125, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 126, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 127, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 129, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:27:30	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:30	Import: 1, Transferring entity (00000105, 0000000055fa55c212f10eec5bc7bac920260fa0) to the chain, txs: 0
+2026-10-10 17:27:30	Import: 1, Transferring entity (00000205, 0000000055fa55c212f10eec5bc7bac920260fa0) to the chain, txs: 0
+2026-10-10 17:27:30	Import: 1, Transferring entity (00000106, 0000000055fa55c212f10eec5bc7bac920260fa0) to the chain, txs: 0
+2026-10-10 17:27:30	Import: 1, Transferring entity (00000206, 0000000055fa55c212f10eec5bc7bac920260fa0) to the chain, txs: 0
+2026-10-10 17:27:30	Import: 1, Transferring entity (00000107, 0000000055fa55c212f10eec5bc7bac920260fa0) to the chain, txs: 0
+2026-10-10 17:27:30	Import: 1, Transferring entity (00000207, 0000000055fa55c212f10eec5bc7bac920260fa0) to the chain, txs: 0
+2026-10-10 17:27:30	CompleteImport: Successfully updated chain after import 1, removing old records
+2026-10-10 17:27:30	CompleteImport: Import 1 completed
+2026-10-10 17:27:31	Entity (00000105, 00000000be4c7a463cef10b1b74b3b501658c82f) added successfully
+2026-10-10 17:27:31	Entity (00000205, 00000000be4c7a463cef10b1b74b3b501658c82f) added successfully
+2026-10-10 17:27:31	Entity (00000106, 00000000be4c7a463cef10b1b74b3b501658c82f) added successfully
+2026-10-10 17:27:31	Entity (00000206, 00000000be4c7a463cef10b1b74b3b501658c82f) added successfully
+2026-10-10 17:27:31	Entity (00000107, 00000000be4c7a463cef10b1b74b3b501658c82f) added successfully
+2026-10-10 17:27:31	Entity (00000207, 00000000be4c7a463cef10b1b74b3b501658c82f) added successfully
+2026-10-10 17:27:31	Starting new import 2 with 6 entities from block 107
+2026-10-10 17:27:31	Import: 2, Entity: (00000105, 00000000be4c7a463cef10b1b74b3b501658c82f), transferred txs: 0
+2026-10-10 17:27:31	Import: 2, Entity: (00000205, 00000000be4c7a463cef10b1b74b3b501658c82f), transferred txs: 0
+2026-10-10 17:27:31	Import: 2, Entity: (00000106, 00000000be4c7a463cef10b1b74b3b501658c82f), transferred txs: 0
+2026-10-10 17:27:31	Import: 2, Entity: (00000206, 00000000be4c7a463cef10b1b74b3b501658c82f), transferred txs: 0
+2026-10-10 17:27:31	Import: 2, Entity: (00000107, 00000000be4c7a463cef10b1b74b3b501658c82f), transferred txs: 0
+2026-10-10 17:27:31	Import: 2, Entity: (00000207, 00000000be4c7a463cef10b1b74b3b501658c82f), transferred txs: 0
+2026-10-10 17:27:31	Import 2 successfully started
+2026-10-10 17:27:31	NewBlock 108, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 109, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 110, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 111, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 112, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 113, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 114, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 115, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 116, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 117, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 118, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 119, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 120, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 121, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 122, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 123, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 124, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 125, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 126, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 127, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 129, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:31	Import: 2, Transferring entity (00000105, 00000000be4c7a463cef10b1b74b3b501658c82f) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 2, Transferring entity (00000205, 00000000be4c7a463cef10b1b74b3b501658c82f) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 2, Transferring entity (00000106, 00000000be4c7a463cef10b1b74b3b501658c82f) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 2, Transferring entity (00000206, 00000000be4c7a463cef10b1b74b3b501658c82f) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 2, Transferring entity (00000107, 00000000be4c7a463cef10b1b74b3b501658c82f) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 2, Transferring entity (00000207, 00000000be4c7a463cef10b1b74b3b501658c82f) to the chain, txs: 0
+2026-10-10 17:27:31	CompleteImport: Successfully updated chain after import 2, removing old records
+2026-10-10 17:27:31	CompleteImport: Import 2 completed
+2026-10-10 17:27:31	Entity (00000105, 00000000d44b797cad8acc50943ad80b1778b81e) added successfully
+2026-10-10 17:27:31	Entity (00000205, 00000000d44b797cad8acc50943ad80b1778b81e) added successfully
+2026-10-10 17:27:31	Entity (00000106, 00000000d44b797cad8acc50943ad80b1778b81e) added successfully
+2026-10-10 17:27:31	Entity (00000206, 00000000d44b797cad8acc50943ad80b1778b81e) added successfully
+2026-10-10 17:27:31	Entity (00000107, 00000000d44b797cad8acc50943ad80b1778b81e) added successfully
+2026-10-10 17:27:31	Entity (00000207, 00000000d44b797cad8acc50943ad80b1778b81e) added successfully
+2026-10-10 17:27:31	Starting new import 3 with 6 entities from block 110
+2026-10-10 17:27:31	Import: 3, Entity: (00000105, 00000000d44b797cad8acc50943ad80b1778b81e), transferred txs: 0
+2026-10-10 17:27:31	Import: 3, Entity: (00000205, 00000000d44b797cad8acc50943ad80b1778b81e), transferred txs: 0
+2026-10-10 17:27:31	Import: 3, Entity: (00000106, 00000000d44b797cad8acc50943ad80b1778b81e), transferred txs: 0
+2026-10-10 17:27:31	Import: 3, Entity: (00000206, 00000000d44b797cad8acc50943ad80b1778b81e), transferred txs: 0
+2026-10-10 17:27:31	Import: 3, Entity: (00000107, 00000000d44b797cad8acc50943ad80b1778b81e), transferred txs: 0
+2026-10-10 17:27:31	Import: 3, Entity: (00000207, 00000000d44b797cad8acc50943ad80b1778b81e), transferred txs: 0
+2026-10-10 17:27:31	Import 3 successfully started
+2026-10-10 17:27:31	NewBlock 111, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 112, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 113, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 114, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 115, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 116, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 117, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 118, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 119, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 120, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 121, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 122, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 123, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 124, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 125, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 126, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 127, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 129, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:27:31	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:31	Import: 3, Transferring entity (00000105, 00000000d44b797cad8acc50943ad80b1778b81e) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 3, Transferring entity (00000205, 00000000d44b797cad8acc50943ad80b1778b81e) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 3, Transferring entity (00000106, 00000000d44b797cad8acc50943ad80b1778b81e) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 3, Transferring entity (00000206, 00000000d44b797cad8acc50943ad80b1778b81e) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 3, Transferring entity (00000107, 00000000d44b797cad8acc50943ad80b1778b81e) to the chain, txs: 0
+2026-10-10 17:27:31	Import: 3, Transferring entity (00000207, 00000000d44b797cad8acc50943ad80b1778b81e) to the chain, txs: 0
+2026-10-10 17:27:31	CompleteImport: Successfully updated chain after import 3, removing old records
+2026-10-10 17:27:31	CompleteImport: Import 3 completed
+2026-10-10 17:27:32	Entity (00000105, 0000000001e526884153474951ec9f0881ccf6e9) added successfully
+2026-10-10 17:27:32	Entity (00000205, 0000000001e526884153474951ec9f0881ccf6e9) added successfully
+2026-10-10 17:27:32	Entity (00000106, 0000000001e526884153474951ec9f0881ccf6e9) added successfully
+2026-10-10 17:27:32	Entity (00000206, 0000000001e526884153474951ec9f0881ccf6e9) added successfully
+2026-10-10 17:27:32	Entity (00000107, 0000000001e526884153474951ec9f0881ccf6e9) added successfully
+2026-10-10 17:27:32	Entity (00000207, 0000000001e526884153474951ec9f0881ccf6e9) added successfully
+2026-10-10 17:27:32	Starting new import 4 with 6 entities from block 122
+2026-10-10 17:27:32	Import: 4, Entity: (00000105, 0000000001e526884153474951ec9f0881ccf6e9), transferred txs: 0
+2026-10-10 17:27:32	Import: 4, Entity: (00000205, 0000000001e526884153474951ec9f0881ccf6e9), transferred txs: 0
+2026-10-10 17:27:32	Import: 4, Entity: (00000106, 0000000001e526884153474951ec9f0881ccf6e9), transferred txs: 0
+2026-10-10 17:27:32	Import: 4, Entity: (00000206, 0000000001e526884153474951ec9f0881ccf6e9), transferred txs: 0
+2026-10-10 17:27:32	Import: 4, Entity: (00000107, 0000000001e526884153474951ec9f0881ccf6e9), transferred txs: 0
+2026-10-10 17:27:32	Import: 4, Entity: (00000207, 0000000001e526884153474951ec9f0881ccf6e9), transferred txs: 0
+2026-10-10 17:27:32	Import 4 successfully started
+2026-10-10 17:27:32	NewBlock 123, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 124, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 125, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 126, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 127, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 129, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:27:32	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:32	Import: 4, Transferring entity (00000105, 0000000001e526884153474951ec9f0881ccf6e9) to the chain, txs: 0
+2026-10-10 17:27:32	Import: 4, Transferring entity (00000205, 0000000001e526884153474951ec9f0881ccf6e9) to the chain, txs: 0
+2026-10-10 17:27:32	Import: 4, Transferring entity (00000106, 0000000001e526884153474951ec9f0881ccf6e9) to the chain, txs: 0
+2026-10-10 17:27:32	Import: 4, Transferring entity (00000206, 0000000001e526884153474951ec9f0881ccf6e9) to the chain, txs: 0
+2026-10-10 17:27:32	Import: 4, Transferring entity (00000107, 0000000001e526884153474951ec9f0881ccf6e9) to the chain, txs: 0
+2026-10-10 17:27:32	Import: 4, Transferring entity (00000207, 0000000001e526884153474951ec9f0881ccf6e9) to the chain, txs: 0
+2026-10-10 17:27:32	CompleteImport: Successfully updated chain after import 4, removing old records
+2026-10-10 17:27:32	CompleteImport: Import 4 completed
+2026-10-10 17:27:33	Entity (00000105, 000000003cbe077e51edcdcbf07439384bc04dfa) added successfully
+2026-10-10 17:27:33	Entity (00000205, 000000003cbe077e51edcdcbf07439384bc04dfa) added successfully
+2026-10-10 17:27:33	Entity (00000106, 000000003cbe077e51edcdcbf07439384bc04dfa) added successfully
+2026-10-10 17:27:33	Entity (00000206, 000000003cbe077e51edcdcbf07439384bc04dfa) added successfully
+2026-10-10 17:27:33	Entity (00000107, 000000003cbe077e51edcdcbf07439384bc04dfa) added successfully
+2026-10-10 17:27:33	Entity (00000207, 000000003cbe077e51edcdcbf07439384bc04dfa) added successfully
+2026-10-10 17:27:33	Starting new import 5 with 6 entities from block 125
+2026-10-10 17:27:33	Import: 5, Entity: (00000105, 000000003cbe077e51edcdcbf07439384bc04dfa), transferred txs: 0
+2026-10-10 17:27:33	Import: 5, Entity: (00000205, 000000003cbe077e51edcdcbf07439384bc04dfa), transferred txs: 0
+2026-10-10 17:27:33	Import: 5, Entity: (00000106, 000000003cbe077e51edcdcbf07439384bc04dfa), transferred txs: 0
+2026-10-10 17:27:33	Import: 5, Entity: (00000206, 000000003cbe077e51edcdcbf07439384bc04dfa), transferred txs: 0
+2026-10-10 17:27:33	Import: 5, Entity: (00000107, 000000003cbe077e51edcdcbf07439384bc04dfa), transferred txs: 0
+2026-10-10 17:27:33	Import: 5, Entity: (00000207, 000000003cbe077e51edcdcbf07439384bc04dfa), transferred txs: 0
+2026-10-10 17:27:33	Import 5 successfully started
+2026-10-10 17:27:33	NewBlock 126, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 127, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 128, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 129, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:33	Import: 5, Transferring entity (00000105, 000000003cbe077e51edcdcbf07439384bc04dfa) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 5, Transferring entity (00000205, 000000003cbe077e51edcdcbf07439384bc04dfa) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 5, Transferring entity (00000106, 000000003cbe077e51edcdcbf07439384bc04dfa) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 5, Transferring entity (00000206, 000000003cbe077e51edcdcbf07439384bc04dfa) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 5, Transferring entity (00000107, 000000003cbe077e51edcdcbf07439384bc04dfa) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 5, Transferring entity (00000207, 000000003cbe077e51edcdcbf07439384bc04dfa) to the chain, txs: 0
+2026-10-10 17:27:33	CompleteImport: Successfully updated chain after import 5, removing old records
+2026-10-10 17:27:33	CompleteImport: Import 5 completed
+2026-10-10 17:27:33	Entity (00000105, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) added successfully
+2026-10-10 17:27:33	Entity (00000205, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) added successfully
+2026-10-10 17:27:33	Entity (00000106, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) added successfully
+2026-10-10 17:27:33	Entity (00000206, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) added successfully
+2026-10-10 17:27:33	Entity (00000107, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) added successfully
+2026-10-10 17:27:33	Entity (00000207, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) added successfully
+2026-10-10 17:27:33	Starting new import 6 with 6 entities from block 128
+2026-10-10 17:27:33	Import: 6, Entity: (00000105, 0000000042dcfc54b6ae5dad8222832c3db4c3b8), transferred txs: 0
+2026-10-10 17:27:33	Import: 6, Entity: (00000205, 0000000042dcfc54b6ae5dad8222832c3db4c3b8), transferred txs: 0
+2026-10-10 17:27:33	Import: 6, Entity: (00000106, 0000000042dcfc54b6ae5dad8222832c3db4c3b8), transferred txs: 0
+2026-10-10 17:27:33	Import: 6, Entity: (00000206, 0000000042dcfc54b6ae5dad8222832c3db4c3b8), transferred txs: 0
+2026-10-10 17:27:33	Import: 6, Entity: (00000107, 0000000042dcfc54b6ae5dad8222832c3db4c3b8), transferred txs: 0
+2026-10-10 17:27:33	Import: 6, Entity: (00000207, 0000000042dcfc54b6ae5dad8222832c3db4c3b8), transferred txs: 0
+2026-10-10 17:27:33	Import 6 successfully started
+2026-10-10 17:27:33	NewBlock 129, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 130, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 131, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 132, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 133, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 134, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 135, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 136, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 137, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 138, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 139, Txs: 0, Rows: 0
+2026-10-10 17:27:33	NewBlock 140, Txs: 0, Rows: 0
+2026-10-10 17:27:33	Import: 6, Transferring entity (00000105, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 6, Transferring entity (00000205, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 6, Transferring entity (00000106, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 6, Transferring entity (00000206, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 6, Transferring entity (00000107, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) to the chain, txs: 0
+2026-10-10 17:27:33	Import: 6, Transferring entity (00000207, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) to the chain, txs: 0
+2026-10-10 17:27:33	CompleteImport: Successfully updated chain after import 6, removing old records
+2026-10-10 17:27:33	CompleteImport: Import 6 completed
+2026-10-10 17:28:26	NewTx 2011d309260a8a38ba19f60a4036e89e1eacda17f02eb99656b41d271f6e658e, block -1, flags 00000004, import 0
+2026-10-10 17:28:26	NewTx 8e4612dd87c5a4c32b1a099ac85b3803e6c8f2310ac14308f568a92766efb46e, block -1, flags 00000004, import 0
+2026-10-10 17:28:27	NewTx 59426d5160bff5dc3e6adfbb93e33b8b9081bc67d35fa95a024108c19f9598ef, block -1, flags 00000004, import 0
+2026-10-10 17:28:29	UpdateTx 2011d30926, block 141, flags 00000004, import 0
+2026-10-10 17:28:29	UpdateTx 8e4612dd87, block 141, flags 00000004, import 0
+2026-10-10 17:28:29	UpdateTx 59426d5160, block 141, flags 00000004, import 0
+2026-10-10 17:28:29	NewBlock 141, Txs: 3, Rows: 18
+2026-10-10 17:28:30	NewBlock 142, Txs: 0, Rows: 0
+2026-10-10 17:28:32	NewBlock 143, Txs: 0, Rows: 0
+2026-10-10 17:28:34	NewBlock 144, Txs: 0, Rows: 0
+2026-10-10 17:28:34	NewBlock 145, Txs: 0, Rows: 0
+2026-10-10 17:28:37	Rolled back to block 144 successfully
+2026-10-10 17:28:37	NewBlock 145, Txs: 0, Rows: 0
+2026-10-10 17:28:37	NewBlock 146, Txs: 0, Rows: 0
+2026-10-10 17:28:37	NewBlock 147, Txs: 0, Rows: 0
+2026-10-10 17:28:38	NewTx 7bb7a5c1d4389e666eaa9c26989627cd98ea18052c9be96d24776ec6dd5f1416, block -1, flags 00000004, import 0
+2026-10-10 17:28:38	NewTx 330b8695ddca165c74b0eb0b1bc6efbc39da6087a477e6a07cadff4516facde2, block -1, flags 00000004, import 0
+2026-10-10 17:28:39	UpdateTx 7bb7a5c1d4, block 148, flags 00000004, import 0
+2026-10-10 17:28:39	UpdateTx 330b8695dd, block 148, flags 00000004, import 0
+2026-10-10 17:28:39	NewBlock 148, Txs: 2, Rows: 12
+2026-10-10 17:28:39	NewTx c5e206c0ba35791741bf811529c08f5b48c9f9d88e6bcb43fabba243fee03650, block -1, flags 00000004, import 0
+2026-10-10 17:28:40	UpdateTx c5e206c0ba, block 149, flags 00000004, import 0
+2026-10-10 17:28:40	NewBlock 149, Txs: 1, Rows: 6
+2026-10-10 17:28:43	NewBlock 150, Txs: 0, Rows: 0
+2026-10-10 17:28:44	NewBlock 151, Txs: 0, Rows: 0
+2026-10-10 17:28:44	NewTx 191561bec3bd5ecd19a7886dd71f6825dba58106097633b631246c9316452017, block -1, flags 00000004, import 0
+2026-10-10 17:28:45	NewTx 49f3c0db625a2680f6221d2a01c00f571cc39349321871c36dedae6cb34d6c1f, block -1, flags 00000004, import 0
+2026-10-10 17:28:46	Rolled back to block 150 successfully
+2026-10-10 17:28:46	UpdateTx 191561bec3, block -1, flags 00000004, import 0
+2026-10-10 17:28:46	UpdateTx 49f3c0db62, block -1, flags 00000004, import 0
+2026-10-10 17:28:46	Rolled back to block 149 successfully
+2026-10-10 17:28:46	UpdateTx 191561bec3, block -1, flags 00000004, import 0
+2026-10-10 17:28:46	UpdateTx 49f3c0db62, block -1, flags 00000004, import 0
+2026-10-10 17:28:46	NewBlock 150, Txs: 2, Rows: 6
+2026-10-10 17:28:46	UpdateTx 191561bec3, block 151, flags 00000004, import 0
+2026-10-10 17:28:46	NewBlock 151, Txs: 0, Rows: 3
+2026-10-10 17:28:46	UpdateTx 49f3c0db62, block 152, flags 00000004, import 0
+2026-10-10 17:28:46	NewBlock 152, Txs: 0, Rows: 3
+2026-10-10 17:28:50	NewBlock 153, Txs: 0, Rows: 0
+2026-10-10 17:28:52	NewBlock 154, Txs: 0, Rows: 0
+2026-10-10 17:28:55	NewBlock 155, Txs: 0, Rows: 0
+2026-10-10 17:28:56	NewBlock 156, Txs: 0, Rows: 0
+2026-10-10 17:28:59	Rolled back to block 155 successfully
+2026-10-10 17:28:59	Rolled back to block 154 successfully
+2026-10-10 17:28:59	NewBlock 155, Txs: 0, Rows: 0
+2026-10-10 17:28:59	NewBlock 156, Txs: 0, Rows: 0
+2026-10-10 17:28:59	NewBlock 157, Txs: 0, Rows: 0
+2026-10-10 17:29:01	NewBlock 158, Txs: 0, Rows: 0
+2026-10-10 17:29:03	NewBlock 159, Txs: 0, Rows: 0
+2026-10-10 17:29:05	Rolled back to block 158 successfully
+2026-10-10 17:29:05	NewBlock 159, Txs: 0, Rows: 0
+2026-10-10 17:29:05	NewBlock 160, Txs: 0, Rows: 0
+2026-10-10 17:29:07	NewBlock 161, Txs: 0, Rows: 0
+2026-10-10 17:29:09	NewBlock 162, Txs: 0, Rows: 0
+2026-10-10 17:29:12	NewBlock 163, Txs: 0, Rows: 0
+2026-10-10 17:29:13	Rolled back to block 162 successfully
+2026-10-10 17:29:13	Rolled back to block 161 successfully
+2026-10-10 17:29:13	NewBlock 162, Txs: 0, Rows: 0
+2026-10-10 17:29:13	NewBlock 163, Txs: 0, Rows: 0
+2026-10-10 17:29:13	NewBlock 164, Txs: 0, Rows: 0
+2026-10-10 17:29:17	NewBlock 165, Txs: 0, Rows: 0
+2026-10-10 17:29:18	Rolled back to block 164 successfully
+2026-10-10 17:29:18	NewBlock 165, Txs: 0, Rows: 0
+2026-10-10 17:29:18	NewBlock 166, Txs: 0, Rows: 0
+2026-10-10 17:29:20	NewBlock 167, Txs: 0, Rows: 0
+2026-10-10 17:29:21	NewBlock 168, Txs: 0, Rows: 0
+2026-10-10 17:29:24	NewBlock 169, Txs: 0, Rows: 0
+2026-10-10 17:29:38	NewTx 5c03b110ead75b6ed303b9e1b28085b4b3406624ec666a3ce43d4bd2f6c68c2d, block -1, flags 00000004, import 0
+2026-10-10 17:29:40	UpdateTx 5c03b110ea, block 170, flags 00000004, import 0
+2026-10-10 17:29:40	NewBlock 170, Txs: 3, Rows: 14
+2026-10-10 17:29:43	NewBlock 171, Txs: 0, Rows: 0
+2026-10-10 17:29:44	NewBlock 172, Txs: 0, Rows: 0
+2026-10-10 17:29:44	NewTx ed1f905409a9e7b18d598a83ab8c1f1dac0ab6ffe24e1383fe58af7775de0cee, block -1, flags 00000004, import 0
+2026-10-10 17:29:45	UpdateTx ed1f905409, block 173, flags 00000004, import 0
+2026-10-10 17:29:45	NewBlock 173, Txs: 2, Rows: 12
+2026-10-10 17:29:46	NewBlock 174, Txs: 0, Rows: 0
+2026-10-10 17:29:48	NewBlock 175, Txs: 0, Rows: 0
+2026-10-10 17:29:49	NewTx 6be4b9015a204e16d8eb569b9461ae6068f36a81102b5581dd07d7cf683020f3, block -1, flags 00000004, import 0
+2026-10-10 17:29:50	UpdateTx 6be4b9015a, block 176, flags 00000004, import 0
+2026-10-10 17:29:50	NewBlock 176, Txs: 2, Rows: 12
+2026-10-10 17:29:51	NewBlock 177, Txs: 0, Rows: 0
+2026-10-10 17:29:52	NewBlock 178, Txs: 0, Rows: 0
+2026-10-10 17:29:54	NewTx 2f1f05adc03f6cae2f77d6719b196a4f238997bd1553de26807aabcc69f02bee, block -1, flags 00000004, import 0
+2026-10-10 17:29:55	UpdateTx 2f1f05adc0, block 179, flags 00000004, import 0
+2026-10-10 17:29:55	NewBlock 179, Txs: 2, Rows: 12
+2026-10-10 17:29:57	Rolled back to block 178 successfully
+2026-10-10 17:29:57	UpdateTx 2f1f05adc0, block -1, flags 00000004, import 0
+2026-10-10 17:29:57	UpdateTx 2f1f05adc0, block 179, flags 00000004, import 0
+2026-10-10 17:29:57	NewBlock 179, Txs: 0, Rows: 6
+2026-10-10 17:29:57	NewBlock 180, Txs: 0, Rows: 0
+2026-10-10 17:29:58	NewTx fe8cc0b9a7a61972de6580099ab9bde35bc76e4485a69964a6cbce29ddfbfea4, block -1, flags 00000004, import 0
+2026-10-10 17:30:01	UpdateTx fe8cc0b9a7, block 181, flags 00000004, import 0
+2026-10-10 17:30:01	NewBlock 181, Txs: 2, Rows: 12
+2026-10-10 17:30:03	NewBlock 182, Txs: 0, Rows: 0
+2026-10-10 17:30:05	Rolled back to block 181 successfully
+2026-10-10 17:30:05	Rolled back to block 180 successfully
+2026-10-10 17:30:06	UpdateTx fe8cc0b9a7, block -1, flags 00000004, import 0
+2026-10-10 17:30:06	UpdateTx fe8cc0b9a7, block 181, flags 00000004, import 0
+2026-10-10 17:30:06	NewBlock 181, Txs: 0, Rows: 6
+2026-10-10 17:30:06	NewBlock 182, Txs: 0, Rows: 0
+2026-10-10 17:30:06	NewBlock 183, Txs: 0, Rows: 0
+2026-10-10 17:30:06	NewBlock 184, Txs: 0, Rows: 0
+2026-10-10 17:30:09	NewBlock 185, Txs: 0, Rows: 0
+2026-10-10 17:30:12	NewBlock 186, Txs: 0, Rows: 0
+2026-10-10 17:30:13	NewBlock 187, Txs: 0, Rows: 0
+2026-10-10 17:30:15	NewBlock 188, Txs: 0, Rows: 0
+2026-10-10 17:30:17	NewBlock 189, Txs: 0, Rows: 0
+2026-10-10 17:30:20	NewBlock 190, Txs: 0, Rows: 0
+2026-10-10 17:30:22	Rolled back to block 189 successfully
+2026-10-10 17:30:22	NewBlock 190, Txs: 0, Rows: 0
+2026-10-10 17:30:22	NewBlock 191, Txs: 0, Rows: 0
+2026-10-10 17:31:18	NewData 00000000000000000000014b0000000000000000000000000000000000000001, block -1, flags 00000000, import 0
+2026-10-10 17:31:22	NewData 00000000000000000000014b0000000000000000000000000000000000000001, block 192, flags 00000000, import 0
+2026-10-10 17:31:22	NewBlock 192, Txs: 1, Rows: 4
+2026-10-10 17:31:24	NewBlock 193, Txs: 0, Rows: 0
+2026-10-10 17:31:25	NewBlock 194, Txs: 0, Rows: 0
+2026-10-10 17:31:28	NewBlock 195, Txs: 0, Rows: 0
+2026-10-10 17:31:29	Rolled back to block 194 successfully
+2026-10-10 17:31:29	NewBlock 195, Txs: 0, Rows: 0
+2026-10-10 17:31:29	NewBlock 196, Txs: 0, Rows: 0
+2026-10-10 17:31:30	NewBlock 197, Txs: 0, Rows: 0
+2026-10-10 17:31:32	Entity (00000108, 000000005fc1047f8179890387357eaa42272ad9) added successfully
+2026-10-10 17:31:32	Entity (00000208, 000000005fc1047f8179890387357eaa42272ad9) added successfully
+2026-10-10 17:31:32	Starting new import 7 with 2 entities from block 191
+2026-10-10 17:31:32	Import: 7, Entity: (00000108, 000000005fc1047f8179890387357eaa42272ad9), transferred txs: 0
+2026-10-10 17:31:32	Import: 7, Entity: (00000208, 000000005fc1047f8179890387357eaa42272ad9), transferred txs: 0
+2026-10-10 17:31:32	Import 7 successfully started
+2026-10-10 17:31:32	NewTx 5fc1047f8179890387357eaa42272ad9be8bcfa7a43126dd02698b82d19a4e7c, block 192, flags 00000004, import 7
+2026-10-10 17:31:32	NewBlock 192, Txs: 1, Rows: 2
+2026-10-10 17:31:32	NewBlock 193, Txs: 0, Rows: 0
+2026-10-10 17:31:32	NewBlock 194, Txs: 0, Rows: 0
+2026-10-10 17:31:32	NewBlock 195, Txs: 0, Rows: 0
+2026-10-10 17:31:32	NewBlock 196, Txs: 0, Rows: 0
+2026-10-10 17:31:32	NewBlock 197, Txs: 0, Rows: 0
+2026-10-10 17:31:32	Import: 7, Transferring entity (00000108, 000000005fc1047f8179890387357eaa42272ad9) to the chain, txs: 1
+2026-10-10 17:31:32	Import: 7, Transferring entity (00000208, 000000005fc1047f8179890387357eaa42272ad9) to the chain, txs: 1
+2026-10-10 17:31:32	CompleteImport: Successfully updated chain after import 7, removing old records
+2026-10-10 17:31:32	CompleteImport: Import 7 completed
+2026-10-10 17:31:32	NewBlock 198, Txs: 0, Rows: 0
+2026-10-10 17:31:34	NewBlock 199, Txs: 0, Rows: 0
+2026-10-10 17:31:35	NewBlock 200, Txs: 0, Rows: 0
+2026-10-10 17:31:36	Rolled back to block 199 successfully
+2026-10-10 17:31:37	Rolled back to block 198 successfully
+2026-10-10 17:31:37	NewBlock 199, Txs: 0, Rows: 0
+2026-10-10 17:31:37	NewBlock 200, Txs: 0, Rows: 0
+2026-10-10 17:31:37	NewBlock 201, Txs: 0, Rows: 0
+2026-10-10 17:31:38	NewBlock 202, Txs: 0, Rows: 0
+2026-10-10 17:34:24	Entity (00000105, 0000000055fa55c212f10eec5bc7bac920260fa0) already in the wallet
+2026-10-10 17:34:24	Entity (00000105, 00000000be4c7a463cef10b1b74b3b501658c82f) already in the wallet
+2026-10-10 17:34:24	Entity (00000105, 00000000d44b797cad8acc50943ad80b1778b81e) already in the wallet
+2026-10-10 17:34:24	Entity (00000105, 0000000001e526884153474951ec9f0881ccf6e9) already in the wallet
+2026-10-10 17:34:24	Entity (00000105, 000000003cbe077e51edcdcbf07439384bc04dfa) already in the wallet
+2026-10-10 17:34:24	Entity (00000105, 0000000042dcfc54b6ae5dad8222832c3db4c3b8) already in the wallet
+2026-10-10 17:34:24	Entity (00000108, 000000005fc1047f8179890387357eaa42272ad9) already in the wallet
+2026-10-10 17:36:41	NewTx 864a112351515202a9b824238447a70446cafb9fbb953711397045c79e5e5dfa, block -1, flags 00030004, import 0
+2026-10-10 17:36:46	UpdateTx 864a112351, block 203, flags 00030004, import 0
+2026-10-10 17:36:46	NewBlock 203, Txs: 3, Rows: 20
+2026-10-10 17:36:47	NewTx 3fa829b20ecdb8677f4784ea7c9a0d7df3eca7081dc3522710a71395432f3149, block -1, flags 00030004, import 0
+2026-10-10 17:36:48	UpdateTx 3fa829b20e, block 204, flags 00030004, import 0
+2026-10-10 17:36:48	NewBlock 204, Txs: 3, Rows: 20
+2026-10-10 17:36:49	NewTx 0cfdb1f59b671141b17df49ca673ac8c7d6afb1fbaf0d775c84cfbdc308b8b82, block -1, flags 00000004, import 0
+2026-10-10 17:36:51	UpdateTx 0cfdb1f59b, block 205, flags 00000004, import 0
+2026-10-10 17:36:51	NewBlock 205, Txs: 3, Rows: 14
+2026-10-10 17:36:52	NewTx d1f50efe9cef461b145a5a7b2241032ff1266a03d45b78ec62da60866ef7e301, block -1, flags 00000004, import 0
+2026-10-10 17:36:52	NewBlock 206, Txs: 3, Rows: 7
+2026-10-10 17:36:52	UpdateTx d1f50efe9c, block -1, flags 00000004, import 0
+2026-10-10 17:36:53	UpdateTx d1f50efe9c, block 207, flags 00000004, import 0
+2026-10-10 17:36:53	NewBlock 207, Txs: 0, Rows: 7
+2026-10-10 17:36:54	NewTx b0ae1dd78810ddfd9011dce317da1711f5bfa6d49cdd17bf000e974165d9626b, block -1, flags 00030004, import 0
+2026-10-10 17:36:55	NewBlock 208, Txs: 3, Rows: 10
+2026-10-10 17:36:55	UpdateTx b0ae1dd788, block -1, flags 00030004, import 0
+2026-10-10 17:36:57	UpdateTx b0ae1dd788, block 209, flags 00030004, import 0
+2026-10-10 17:36:57	NewBlock 209, Txs: 0, Rows: 10
+2026-10-10 17:36:57	NewTx 83ef2409a29779fb108e5bc80075f6dc2a8247f1b83e47e9f6adf6e61770d692, block -1, flags 00030004, import 0
+2026-10-10 17:36:57	NewBlock 210, Txs: 1, Rows: 10
+2026-10-10 17:36:57	UpdateTx 83ef2409a2, block -1, flags 00030004, import 0
+2026-10-10 17:37:00	UpdateTx 83ef2409a2, block 211, flags 00030004, import 0
+2026-10-10 17:37:00	NewBlock 211, Txs: 0, Rows: 10
+2026-10-10 17:37:00	NewBlock 212, Txs: 0, Rows: 0
+2026-10-10 17:37:00	NewTx 7da4fe08f73eeef9d8c95ca3fff42964211c7a636f6c493eb7342be2e71543d8, block -1, flags 00000004, import 0
+2026-10-10 17:37:02	Rolled back to block 211 successfully
+2026-10-10 17:37:02	UpdateTx 7da4fe08f7, block -1, flags 00000004, import 0
+2026-10-10 17:37:02	UpdateTx 7da4fe08f7, block 212, flags 00000004, import 0
+2026-10-10 17:37:02	NewBlock 212, Txs: 1, Rows: 22
+2026-10-10 17:37:02	NewBlock 213, Txs: 0, Rows: 0
+2026-10-10 17:37:02	NewTx ebfb1ea1b7fe01cf83600e70bd20d8ad7577323b0d54bd6f3e96dd3d7aa0d6d7, block -1, flags 00030004, import 0
+2026-10-10 17:37:04	UpdateTx ebfb1ea1b7, block 214, flags 00030004, import 0
+2026-10-10 17:37:04	NewBlock 214, Txs: 1, Rows: 20
+2026-10-10 17:37:05	NewTx 0422b413cd95470c2e051a1e5a2875a9ea19fd97f4fec89b262be6565239f218, block -1, flags 00000004, import 0
+2026-10-10 17:37:08	UpdateTx 0422b413cd, block 215, flags 00000004, import 0
+2026-10-10 17:37:08	NewBlock 215, Txs: 1, Rows: 20
+2026-10-10 17:37:09	NewTx 3633222675dd1bc8f7e8a96de7bc0a13051662c77747b5c0241e61de64e00eba, block -1, flags 00000004, import 0
+2026-10-10 17:37:11	UpdateTx 3633222675, block 216, flags 00000004, import 0
+2026-10-10 17:37:11	NewBlock 216, Txs: 1, Rows: 14
+2026-10-10 17:37:12	NewBlock 217, Txs: 0, Rows: 0
+2026-10-10 17:37:13	NewTx 21767ece82af476ca060e35bf1f8ed2155e1a36f806900967df00ace9cba8e95, block -1, flags 00000004, import 0
+2026-10-10 17:37:14	UpdateTx 21767ece82, block 218, flags 00000004, import 0
+2026-10-10 17:37:14	NewBlock 218, Txs: 1, Rows: 14
+2026-10-10 17:37:15	NewTx 458eb5fa5ed8adf7f1e4623f27b3d05724e8ed73ad1408532d88bdab45cf2d6a, block -1, flags 00000004, import 0
+2026-10-10 17:37:17	UpdateTx 458eb5fa5e, block 219, flags 00000004, import 0
+2026-10-10 17:37:17	NewBlock 219, Txs: 1, Rows: 14
+2026-10-10 17:37:18	NewTx 8b2f99fcf88780656d4e6f0e733fd6396de93327912d4525b841d9e8b730b1a3, block -1, flags 00000004, import 0
+2026-10-10 17:37:19	Rolled back to block 218 successfully
+2026-10-10 17:37:19	UpdateTx 458eb5fa5e, block -1, flags 00000004, import 0
+2026-10-10 17:37:19	UpdateTx 8b2f99fcf8, block -1, flags 00000004, import 0
+2026-10-10 17:37:19	UpdateTx 458eb5fa5e, block 219, flags 00000004, import 0
+2026-10-10 17:37:19	NewBlock 219, Txs: 1, Rows: 14
+2026-10-10 17:37:19	UpdateTx 8b2f99fcf8, block 220, flags 00000004, import 0
+2026-10-10 17:37:19	NewBlock 220, Txs: 0, Rows: 7
+2026-10-10 17:37:21	NewBlock 221, Txs: 0, Rows: 0
+2026-10-10 17:37:23	NewBlock 222, Txs: 0, Rows: 0
+2026-10-10 17:37:24	NewBlock 223, Txs: 0, Rows: 0
+2026-10-10 17:37:27	NewBlock 224, Txs: 0, Rows: 0
+2026-10-10 17:37:29	NewBlock 225, Txs: 0, Rows: 0
+2026-10-10 17:37:32	NewBlock 226, Txs: 0, Rows: 0
+2026-10-10 17:37:33	NewBlock 227, Txs: 0, Rows: 0
+2026-10-10 17:37:35	NewBlock 228, Txs: 0, Rows: 0
+2026-10-10 17:37:38	NewBlock 229, Txs: 0, Rows: 0
+2026-10-10 17:37:39	NewBlock 230, Txs: 0, Rows: 0
+2026-10-10 17:40:19	NewTx 7458fef64225c258bc1779e7b8f962b199c7b095360fd154d0de6cf1ef5d3762, block -1, flags 00030004, import 0
+2026-10-10 17:40:23	UpdateTx 7458fef642, block 231, flags 00030004, import 0
+2026-10-10 17:40:23	NewBlock 231, Txs: 2, Rows: 20
+2026-10-10 17:40:24	NewTx 0d6e6503b0d50aa67c0ac2d4f0d053f1e56e7ef58a2d3e4f1e3ce1d083891898, block -1, flags 00030004, import 0
+2026-10-10 17:40:25	UpdateTx 0d6e6503b0, block 232, flags 00030004, import 0
+2026-10-10 17:40:25	NewBlock 232, Txs: 2, Rows: 18
+2026-10-10 17:40:26	NewTx 2b31cf3b8ae728da419a42729740332bfa84e4e19c95321b22051c3c9151c68c, block -1, flags 00030004, import 0
+2026-10-10 17:40:28	UpdateTx 2b31cf3b8a, block 233, flags 00030004, import 0
+2026-10-10 17:40:28	NewBlock 233, Txs: 2, Rows: 18
+2026-10-10 17:40:29	NewBlock 234, Txs: 0, Rows: 0
+2026-10-10 17:40:29	NewTx 8842fe2798c0a808dd78eade9951c52b0fa8552d07a40ef10b6f5cd260b12bab, block -1, flags 00000004, import 0
+2026-10-10 17:40:32	UpdateTx 8842fe2798, block 235, flags 00000004, import 0
+2026-10-10 17:40:32	NewBlock 235, Txs: 2, Rows: 12
+2026-10-10 17:40:33	NewTx dd33bce15931579ffc0b2d10b72227c9b0300b01ec590130bce4598cf1d76421, block -1, flags 00000004, import 0
+2026-10-10 17:40:33	UpdateTx dd33bce159, block 236, flags 00000004, import 0
+2026-10-10 17:40:33	NewBlock 236, Txs: 2, Rows: 12
+2026-10-10 17:40:33	NewBlock 237, Txs: 0, Rows: 0
+2026-10-10 17:40:34	NewTx 51b8d54af408494ed2b42b024ea747bf111042dbc94744dc533c927168045aed, block -1, flags 00030004, import 0
+2026-10-10 17:40:36	UpdateTx 51b8d54af4, block 238, flags 00030004, import 0
+2026-10-10 17:40:36	NewBlock 238, Txs: 1, Rows: 18
+2026-10-10 17:40:37	NewTx 91ba0a4c43cc62e68c0386776f353b65f456617d7d299a51fd46d7686aa0cf9d, block -1, flags 00030004, import 0
+2026-10-10 17:40:37	UpdateTx 91ba0a4c43, block 239, flags 00030004, import 0
+2026-10-10 17:40:37	NewBlock 239, Txs: 1, Rows: 18
+2026-10-10 17:40:38	NewTx cd2618eaa7a0f2323115cbb5b0b42e3eaa1ff57e82c8c23b0389f3627d20278b, block -1, flags 00000004, import 0
+2026-10-10 17:40:38	NewBlock 240, Txs: 1, Rows: 10
+2026-10-10 17:40:38	UpdateTx cd2618eaa7, block -1, flags 00000004, import 0
+2026-10-10 17:40:41	UpdateTx cd2618eaa7, block 241, flags 00000004, import 0
+2026-10-10 17:40:41	NewBlock 241, Txs: 0, Rows: 10
+2026-10-10 17:40:41	NewBlock 242, Txs: 0, Rows: 0
+2026-10-10 17:40:42	NewTx e12569245fa5281941d5de7893b9a2aa5548c7a3692423fa7dd056f7e9f9fc59, block -1, flags 00030004, import 0
+2026-10-10 17:40:45	UpdateTx e12569245f, block 243, flags 00030004, import 0
+2026-10-10 17:40:45	NewBlock 243, Txs: 1, Rows: 18
+2026-10-10 17:40:46	NewTx 0dd42ac0b7223d503eebc28348a9a5ea229b76fc49d0ca0102da54268ff63c4b, block -1, flags 00000004, import 0
+2026-10-10 17:40:49	UpdateTx 0dd42ac0b7, block 244, flags 00000004, import 0
+2026-10-10 17:40:49	NewBlock 244, Txs: 1, Rows: 20
+2026-10-10 17:40:50	NewTx 0ea1cd1c829c9b82f141e2f22751957c2a827dbcfb4bebf185efad4227529efa, block -1, flags 00000004, import 0
+2026-10-10 17:40:50	UpdateTx 0ea1cd1c82, block 245, flags 00000004, import 0
+2026-10-10 17:40:50	NewBlock 245, Txs: 1, Rows: 12
+2026-10-10 17:40:52	NewBlock 246, Txs: 0, Rows: 0
+2026-10-10 17:40:52	NewTx 0ce11a07ed9fb2c65c1cdb7c9939bed685e58b2a7a9e6142d28a53486e90372a, block -1, flags 00000004, import 0
+2026-10-10 17:40:54	UpdateTx 0ce11a07ed, block 247, flags 00000004, import 0
+2026-10-10 17:40:54	NewBlock 247, Txs: 1, Rows: 14
+2026-10-10 17:40:55	NewBlock 248, Txs: 0, Rows: 0
+2026-10-10 17:40:55	NewTx 68e50256a524dec5813cfd801ffa95daff58f19043d354381bd8cd9bce8cc9b9, block -1, flags 00000004, import 0
+2026-10-10 17:40:58	UpdateTx 68e50256a5, block 249, flags 00000004, import 0
+2026-10-10 17:40:58	NewBlock 249, Txs: 1, Rows: 12
+2026-10-10 17:40:59	NewTx 083c8d64b92e5708a9072609e7ffc24bf1b90e2467b1cbdcaacf746f48860779, block -1, flags 00000004, import 0
+2026-10-10 17:41:01	UpdateTx 083c8d64b9, block 250, flags 00000004, import 0
+2026-10-10 17:41:01	NewBlock 250, Txs: 1, Rows: 14
+2026-10-10 17:41:02	NewBlock 251, Txs: 0, Rows: 0
+2026-10-10 17:41:05	NewBlock 252, Txs: 0, Rows: 0
+2026-10-10 17:41:06	NewBlock 253, Txs: 0, Rows: 0
+2026-10-10 17:41:09	NewBlock 254, Txs: 0, Rows: 0
+2026-10-10 17:41:11	NewTx 96935a2f94b2965f4167974192ea70f0d9a6a39c97c713a2a9aaf2a8b2b751fd, block -1, flags 00000004, import 0
+2026-10-10 17:41:11	UpdateTx 96935a2f94, block 255, flags 00000004, import 0
+2026-10-10 17:41:11	NewBlock 255, Txs: 3, Rows: 14
+2026-10-10 17:41:12	NewTx 338163bac3730fbb2270f8efa2b10127162edcfb7e8da4e4dd6de9ade3a4dbd2, block -1, flags 00030004, import 0
+2026-10-10 17:41:13	UpdateTx 338163bac3, block 256, flags 00030004, import 0
+2026-10-10 17:41:13	NewBlock 256, Txs: 2, Rows: 18
+2026-10-10 17:41:14	NewTx 038586957422ad8ee4277c9a8f959c1359bfbda64dccd7820e5a282e45ed99e2, block -1, flags 00030004, import 0
+2026-10-10 17:41:16	UpdateTx 0385869574, block 257, flags 00030004, import 0
+2026-10-10 17:41:16	NewBlock 257, Txs: 2, Rows: 18
+2026-10-10 17:41:16	NewBlock 258, Txs: 0, Rows: 0
+2026-10-10 17:41:17	NewTx 2aeff34f8fe05f342b07f64f05e722d31c489c96999c39d2c6ed35887e88b202, block -1, flags 00000004, import 0
+2026-10-10 17:41:19	UpdateTx 2aeff34f8f, block 259, flags 00000004, import 0
+2026-10-10 17:41:19	NewBlock 259, Txs: 2, Rows: 12
+2026-10-10 17:41:21	NewTx b807beb7401afdc2711d07f8a525c5ffc3f7e2aed49b52be862d94aca872d35b, block -1, flags 00000004, import 0
+2026-10-10 17:41:21	Rolled back to block 258 successfully
+2026-10-10 17:41:21	UpdateTx 2aeff34f8f, block -1, flags 00000004, import 0
+2026-10-10 17:41:21	UpdateTx b807beb740, block -1, flags 00000004, import 0
+2026-10-10 17:41:21	UpdateTx 2aeff34f8f, block 259, flags 00000004, import 0
+2026-10-10 17:41:21	NewBlock 259, Txs: 2, Rows: 12
+2026-10-10 17:41:21	UpdateTx b807beb740, block 260, flags 00000004, import 0
+2026-10-10 17:41:21	NewBlock 260, Txs: 0, Rows: 6
+2026-10-10 17:41:22	NewTx f75f58744906445b1bfe2f5b1edb503bd7ccad9b4f1d36cda461242381d472bd, block -1, flags 00000004, import 0
+2026-10-10 17:41:24	UpdateTx f75f587449, block 261, flags 00000004, import 0
+2026-10-10 17:41:24	NewBlock 261, Txs: 1, Rows: 14
+2026-10-10 17:41:24	NewTx b4599bf28716cd30bb62b23c01864c75b1423b75afad2a51797ebac57bc28465, block -1, flags 00030004, import 0
+2026-10-10 17:41:27	UpdateTx b4599bf287, block 262, flags 00030004, import 0
+2026-10-10 17:41:27	NewBlock 262, Txs: 1, Rows: 18
+2026-10-10 17:41:28	NewTx 565945b8d8bdc72b0da45184bda807a9c4c5888d1fb375092964c0a1dc079c8d, block -1, flags 00000004, import 0
+2026-10-10 17:41:28	NewBlock 263, Txs: 1, Rows: 10
+2026-10-10 17:41:28	UpdateTx 565945b8d8, block -1, flags 00000004, import 0
+2026-10-10 17:41:30	UpdateTx 565945b8d8, block 264, flags 00000004, import 0
+2026-10-10 17:41:30	NewBlock 264, Txs: 0, Rows: 10
+2026-10-10 17:41:30	NewTx b9803fa2b7d9c1a5dff09278f1dac603baf887646f1216ba8ca03b6ecfad2f5e, block -1, flags 00030004, import 0
+2026-10-10 17:41:32	UpdateTx b9803fa2b7, block 265, flags 00030004, import 0
+2026-10-10 17:41:32	NewBlock 265, Txs: 1, Rows: 18
+2026-10-10 17:41:33	NewTx 0b8b6ea9134958f5029701227630668eff7f9956a01ca2b6f4c9eebaf3160510, block -1, flags 00000004, import 0
+2026-10-10 17:41:34	Rolled back to block 264 successfully
+2026-10-10 17:41:34	UpdateTx b9803fa2b7, block -1, flags 00030004, import 0
+2026-10-10 17:41:34	UpdateTx 0b8b6ea913, block -1, flags 00000004, import 0
+2026-10-10 17:41:34	UpdateTx b9803fa2b7, block 265, flags 00030004, import 0
+2026-10-10 17:41:34	NewBlock 265, Txs: 1, Rows: 19
+2026-10-10 17:41:35	UpdateTx 0b8b6ea913, block 266, flags 00000004, import 0
+2026-10-10 17:41:35	NewBlock 266, Txs: 0, Rows: 10
+2026-10-10 17:41:35	NewTx e1f79dfc1681e8ad5f2d97037c8f01555e651e22719b2959590ef725fb533eb9, block -1, flags 00000004, import 0
+2026-10-10 17:41:36	UpdateTx e1f79dfc16, block 267, flags 00000004, import 0
+2026-10-10 17:41:36	NewBlock 267, Txs: 1, Rows: 12
+2026-10-10 17:41:37	NewTx a7f13005441c5ebcabeddf3edf784032507c43232de594fb5eda218af4ae2239, block -1, flags 00000004, import 0
+2026-10-10 17:41:39	UpdateTx a7f1300544, block 268, flags 00000004, import 0
+2026-10-10 17:41:39	NewBlock 268, Txs: 1, Rows: 14
+2026-10-10 17:41:40	NewTx c9afe503aab5b64d22e6a921c00a09fb738a7391ef4ce1db6cecd58b44483fe0, block -1, flags 00000004, import 0
+2026-10-10 17:41:41	Rolled back to block 267 successfully
+2026-10-10 17:41:41	UpdateTx a7f1300544, block -1, flags 00000004, import 0
+2026-10-10 17:41:41	UpdateTx c9afe503aa, block -1, flags 00000004, import 0
+2026-10-10 17:41:41	UpdateTx a7f1300544, block 268, flags 00000004, import 0
+2026-10-10 17:41:41	NewBlock 268, Txs: 1, Rows: 13
+2026-10-10 17:41:41	UpdateTx c9afe503aa, block 269, flags 00000004, import 0
+2026-10-10 17:41:41	NewBlock 269, Txs: 0, Rows: 6
+2026-10-10 17:41:41	NewTx 0fd02471e3a23d16a6bc3a89527f5522d36b1d2fae55f51dd6b8459b0d4a93ae, block -1, flags 00000004, import 0
+2026-10-10 17:41:43	UpdateTx 0fd02471e3, block 270, flags 00000004, import 0
+2026-10-10 17:41:43	NewBlock 270, Txs: 1, Rows: 14
+2026-10-10 17:41:46	NewBlock 271, Txs: 0, Rows: 0
+2026-10-10 17:41:49	NewBlock 272, Txs: 0, Rows: 0
+2026-10-10 17:41:50	Rolled back to block 271 successfully
+2026-10-10 17:41:50	NewBlock 272, Txs: 0, Rows: 0
+2026-10-10 17:41:51	NewBlock 273, Txs: 0, Rows: 0
+2026-10-10 17:41:51	NewBlock 274, Txs: 0, Rows: 0
+2026-10-10 17:41:53	Rolled back to block 273 successfully
+2026-10-10 17:41:53	NewBlock 274, Txs: 0, Rows: 0
+2026-10-10 17:41:53	NewBlock 275, Txs: 0, Rows: 0
+2026-10-10 17:41:56	NewBlock 276, Txs: 0, Rows: 0
+2026-10-10 17:41:58	NewBlock 277, Txs: 0, Rows: 0
+2026-10-10 17:41:59	NewBlock 278, Txs: 0, Rows: 0
+2026-10-10 17:42:02	NewBlock 279, Txs: 0, Rows: 0
+2026-10-10 17:42:05	NewBlock 280, Txs: 0, Rows: 0
+2026-10-10 17:42:06	NewBlock 281, Txs: 0, Rows: 0
+2026-10-10 17:42:08	NewBlock 282, Txs: 0, Rows: 0
+2026-10-10 17:42:11	NewBlock 283, Txs: 0, Rows: 0

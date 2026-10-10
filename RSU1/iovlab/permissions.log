@@ -1,0 +1,745 @@
+2026-10-10 17:11:16	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2026-10-10 17:12:18	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2026-10-10 17:12:18	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00000001-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 0
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00000002-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 0
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00000004-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 0
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00000020-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 0
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00000010-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 0
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00002000-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 0
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00000100-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 0, Miner count: 1
+2026-10-10 17:12:18	Grant: (00000000-73cdfc8b-00001000-73cdfc8b) (0--1, 1791634203), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:18	Grant: (1ad23e81-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:18	Grant: (1ad23e81-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:18	Grant: (1ad23e81-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:18	Grant: (1ad23e81-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:18	Grant: (1ad23e81-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:18	Block commit:         0 (Hash: c018270a, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 16
+2026-10-10 17:12:19	Block commit:         1 (Hash: 23ea0caf, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 18
+2026-10-10 17:12:19	Block commit:         2 (Hash: 84ecd4cc, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 20
+2026-10-10 17:12:19	Block commit:         3 (Hash: 0bff2753, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 22
+2026-10-10 17:12:19	Block commit:         4 (Hash: 4b2ce068, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 24
+2026-10-10 17:12:20	Block commit:         5 (Hash: 39497586, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 26
+2026-10-10 17:12:20	Block commit:         6 (Hash: 89e0b5da, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 28
+2026-10-10 17:12:20	Block commit:         7 (Hash: 1bb8d8e7, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 30
+2026-10-10 17:12:20	Block commit:         8 (Hash: ee4f16b8, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 32
+2026-10-10 17:12:20	Block commit:         9 (Hash: fd963f5c, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 34
+2026-10-10 17:12:20	Block commit:        10 (Hash: a44d3afa, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 36
+2026-10-10 17:12:20	Block commit:        11 (Hash: 6a6c39b8, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 38
+2026-10-10 17:12:20	Block commit:        12 (Hash: 8a886718, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 40
+2026-10-10 17:12:20	Block commit:        13 (Hash: efe32657, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 42
+2026-10-10 17:12:20	Block commit:        14 (Hash: ba363425, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 44
+2026-10-10 17:12:20	Block commit:        15 (Hash: 9d8b6421, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 46
+2026-10-10 17:12:20	Block commit:        16 (Hash: a0d3e1ac, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 48
+2026-10-10 17:12:20	Block commit:        17 (Hash: 9a242412, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 50
+2026-10-10 17:12:20	Block commit:        18 (Hash: 4c3fdfad, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 52
+2026-10-10 17:12:20	Block commit:        19 (Hash: 14458958, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 54
+2026-10-10 17:12:20	Block commit:        20 (Hash: 2b9292fe, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 56
+2026-10-10 17:12:20	Block commit:        21 (Hash: b65ea5c5, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 58
+2026-10-10 17:12:20	Block commit:        22 (Hash: 4f55c0cf, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 60
+2026-10-10 17:12:20	Block commit:        23 (Hash: fb7537bf, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 62
+2026-10-10 17:12:21	Block commit:        24 (Hash: f0d5f6cc, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 64
+2026-10-10 17:12:21	Block commit:        25 (Hash: ce73dfc2, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 66
+2026-10-10 17:12:21	Block commit:        26 (Hash: 867a00e8, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 68
+2026-10-10 17:12:21	Block commit:        27 (Hash: f811af74, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 70
+2026-10-10 17:12:21	Block commit:        28 (Hash: e5681d78, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 72
+2026-10-10 17:12:21	Block commit:        29 (Hash: 97a435c4, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 74
+2026-10-10 17:12:21	Block commit:        30 (Hash: 9eb9bc49, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 76
+2026-10-10 17:12:21	Block commit:        31 (Hash: e3cdf839, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 78
+2026-10-10 17:12:22	Block commit:        32 (Hash: 22216518, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 80
+2026-10-10 17:12:22	Block commit:        33 (Hash: 093202e1, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 82
+2026-10-10 17:12:22	Block commit:        34 (Hash: e4a80426, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 84
+2026-10-10 17:12:22	Block commit:        35 (Hash: bbea87fa, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 86
+2026-10-10 17:12:22	Block commit:        36 (Hash: 05f6d9a7, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 88
+2026-10-10 17:12:22	Block commit:        37 (Hash: e6cb6775, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 90
+2026-10-10 17:12:22	Block commit:        38 (Hash: 99f46aef, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 92
+2026-10-10 17:12:22	Block commit:        39 (Hash: bcc1f863, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 94
+2026-10-10 17:12:22	Block commit:        40 (Hash: bb456826, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 96
+2026-10-10 17:12:22	Block commit:        41 (Hash: 52bb3e0e, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 98
+2026-10-10 17:12:23	Block commit:        42 (Hash: b47def68, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 100
+2026-10-10 17:12:23	Block commit:        43 (Hash: 348becea, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 102
+2026-10-10 17:12:23	Block commit:        44 (Hash: dbecd1bf, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 104
+2026-10-10 17:12:23	Block commit:        45 (Hash: 9a686150, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 106
+2026-10-10 17:12:23	Block commit:        46 (Hash: 44ca0ad5, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 108
+2026-10-10 17:12:23	Block commit:        47 (Hash: 041154e0, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 110
+2026-10-10 17:12:24	Block commit:        48 (Hash: 0f9ec690, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 112
+2026-10-10 17:12:24	Block commit:        49 (Hash: c3dc3f60, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 114
+2026-10-10 17:12:24	Block commit:        50 (Hash: 6ee52873, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 116
+2026-10-10 17:12:24	Block commit:        51 (Hash: c080b0b3, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 118
+2026-10-10 17:12:24	Block commit:        52 (Hash: 6ed1f959, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 120
+2026-10-10 17:12:24	Block commit:        53 (Hash: 452391a4, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 122
+2026-10-10 17:12:24	Block commit:        54 (Hash: fab56044, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 124
+2026-10-10 17:12:25	Block commit:        55 (Hash: 0bfc305c, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 126
+2026-10-10 17:12:25	Block commit:        56 (Hash: d84135cb, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 128
+2026-10-10 17:12:25	Block commit:        57 (Hash: ae10addb, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 130
+2026-10-10 17:12:25	Block commit:        58 (Hash: f7064db6, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 132
+2026-10-10 17:12:25	Block commit:        59 (Hash: 487e99b9, Miner: 73cdfc8b), Admin count: 1, Miner count: 1, Ledger Rows: 134
+2026-10-10 17:12:26	Grant: (00000000-b885194b-00000100-73cdfc8b) (0--1, 1791634329), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:12:26	Grant: (00000000-b885194b-00000100-73cdfc8b) (0--1, 1791634329), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:12:26	Grant: (00000000-b885194b-00000001-73cdfc8b) (0--1, 1791634329), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:26	Grant: (00000000-b885194b-00000002-73cdfc8b) (0--1, 1791634329), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:26	Grant: (00000000-b885194b-00000004-73cdfc8b) (0--1, 1791634329), In consensus: 1, Admin count: 1, Miner count: 1
+2026-10-10 17:12:26	Grant: (00000000-b885194b-00000100-73cdfc8b) (0--1, 1791634329), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:12:26	Block commit:        60 (Hash: 4b1e3dca, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 140
+2026-10-10 17:12:26	Block commit:        61 (Hash: eb25eba9, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 142
+2026-10-10 17:12:26	Block commit:        62 (Hash: 9b959006, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 144
+2026-10-10 17:12:27	Block commit:        63 (Hash: f3a75015, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 146
+2026-10-10 17:12:28	Block commit:        64 (Hash: c61659f3, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 148
+2026-10-10 17:12:29	Block commit:        65 (Hash: 518cc479, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 150
+2026-10-10 17:12:30	Block commit:        66 (Hash: 42b55d7e, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 152
+2026-10-10 17:12:32	Block commit:        67 (Hash: d74a57bc, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 154
+2026-10-10 17:12:34	Block commit:        68 (Hash: 4cec7ae8, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 156
+2026-10-10 17:12:36	Block commit:        69 (Hash: b6e72723, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 158
+2026-10-10 17:12:39	Block commit:        70 (Hash: 7823bad7, Miner: 73cdfc8b), Admin count: 1, Miner count: 2, Ledger Rows: 160
+2026-10-10 17:14:11	Grant: (00000000-8ad15fe5-00000001-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:14:11	Grant: (00000000-8ad15fe5-00000002-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:14:11	Grant: (00000000-8ad15fe5-00000004-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:14:11	Grant: (00000000-8ad15fe5-00000100-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:14:16	Mempool copy:        70, Admin count: 1, Miner count: 3, Ledger Rows: 164
+2026-10-10 17:14:16	Grant: (00000000-8ad15fe5-00000100-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:14:16	Mempool ramv:        70, Admin count: 1, Miner count: 3, Ledger Rows: 164
+2026-10-10 17:14:16	Mempool copy:        70, Admin count: 1, Miner count: 3, Ledger Rows: 164
+2026-10-10 17:14:16	Grant: (00000000-8ad15fe5-00000100-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:14:16	Mempool ramv:        70, Admin count: 1, Miner count: 3, Ledger Rows: 164
+2026-10-10 17:14:16	Mempool copy:        70, Admin count: 1, Miner count: 3, Ledger Rows: 164
+2026-10-10 17:14:16	Mempool clr :        70, Admin count: 1, Miner count: 2, Ledger Rows: 160
+2026-10-10 17:14:16	Mempool rstr:        70, Admin count: 1, Miner count: 3, Ledger Rows: 164
+2026-10-10 17:14:16	Mempool clr :        70, Admin count: 1, Miner count: 2, Ledger Rows: 160
+2026-10-10 17:14:16	Grant: (00000000-8ad15fe5-00000001-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:14:16	Grant: (00000000-8ad15fe5-00000002-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:14:16	Grant: (00000000-8ad15fe5-00000004-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 2
+2026-10-10 17:14:16	Grant: (00000000-8ad15fe5-00000100-73cdfc8b) (0--1, 1791634451), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:14:16	Block commit:        71 (Hash: 05547234, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 166
+2026-10-10 17:14:18	Block commit:        72 (Hash: 63aae9c2, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 168
+2026-10-10 17:14:19	Block commit:        73 (Hash: c7912dae, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 170
+2026-10-10 17:14:21	Block commit:        74 (Hash: e0add0d4, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 172
+2026-10-10 17:14:23	Block commit:        75 (Hash: dbdf6756, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 174
+2026-10-10 17:14:24	Block commit:        76 (Hash: 9f9c1ab5, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 176
+2026-10-10 17:14:25	Block commit:        77 (Hash: f6a9a595, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 178
+2026-10-10 17:14:28	Block commit:        78 (Hash: d296268a, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 180
+2026-10-10 17:14:30	Block commit:        79 (Hash: 995e2eb0, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 182
+2026-10-10 17:14:31	Block rollback:        78, Admin count: 1, Miner count: 3, Ledger Rows: 180
+2026-10-10 17:14:31	Block commit:        79 (Hash: ec0169ff, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 182
+2026-10-10 17:14:31	Block commit:        80 (Hash: 7c4460d7, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 184
+2026-10-10 17:14:32	Block commit:        81 (Hash: 91d2ce09, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 186
+2026-10-10 17:14:34	Block rollback:        80, Admin count: 1, Miner count: 3, Ledger Rows: 184
+2026-10-10 17:14:34	Block commit:        81 (Hash: ae52d122, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 186
+2026-10-10 17:14:34	Block commit:        82 (Hash: 66f64168, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 188
+2026-10-10 17:22:26	Grant: (00000000-b8a67394-00000002-73cdfc8b) (0--1, 1791634945), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:26	Grant: (00000000-b8a67394-00000004-73cdfc8b) (0--1, 1791634945), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:28	Mempool copy:        82, Admin count: 1, Miner count: 3, Ledger Rows: 190
+2026-10-10 17:22:28	Mempool ramv:        82, Admin count: 1, Miner count: 3, Ledger Rows: 190
+2026-10-10 17:22:28	Mempool copy:        82, Admin count: 1, Miner count: 3, Ledger Rows: 190
+2026-10-10 17:22:28	Mempool ramv:        82, Admin count: 1, Miner count: 3, Ledger Rows: 190
+2026-10-10 17:22:28	Mempool copy:        82, Admin count: 1, Miner count: 3, Ledger Rows: 190
+2026-10-10 17:22:28	Mempool clr :        82, Admin count: 1, Miner count: 3, Ledger Rows: 188
+2026-10-10 17:22:28	Mempool rstr:        82, Admin count: 1, Miner count: 3, Ledger Rows: 190
+2026-10-10 17:22:28	Mempool clr :        82, Admin count: 1, Miner count: 3, Ledger Rows: 188
+2026-10-10 17:22:28	Grant: (00000000-b8a67394-00000002-73cdfc8b) (0--1, 1791634945), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:28	Grant: (00000000-b8a67394-00000004-73cdfc8b) (0--1, 1791634945), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:28	Block commit:        83 (Hash: 6ec7a62c, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 192
+2026-10-10 17:22:29	Block commit:        84 (Hash: b52d2ffb, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 194
+2026-10-10 17:22:30	Block commit:        85 (Hash: 9733da92, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 196
+2026-10-10 17:22:32	Block commit:        86 (Hash: 2be28c5c, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 198
+2026-10-10 17:22:33	Grant: (00000000-ac29519a-00000002-73cdfc8b) (0--1, 1791634952), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:33	Grant: (00000000-ac29519a-00000004-73cdfc8b) (0--1, 1791634952), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:33	Mempool copy:        86, Admin count: 1, Miner count: 3, Ledger Rows: 200
+2026-10-10 17:22:33	Mempool ramv:        86, Admin count: 1, Miner count: 3, Ledger Rows: 200
+2026-10-10 17:22:33	Mempool copy:        86, Admin count: 1, Miner count: 3, Ledger Rows: 200
+2026-10-10 17:22:33	Mempool ramv:        86, Admin count: 1, Miner count: 3, Ledger Rows: 200
+2026-10-10 17:22:33	Mempool copy:        86, Admin count: 1, Miner count: 3, Ledger Rows: 200
+2026-10-10 17:22:33	Mempool clr :        86, Admin count: 1, Miner count: 3, Ledger Rows: 198
+2026-10-10 17:22:33	Mempool rstr:        86, Admin count: 1, Miner count: 3, Ledger Rows: 200
+2026-10-10 17:22:33	Mempool clr :        86, Admin count: 1, Miner count: 3, Ledger Rows: 198
+2026-10-10 17:22:33	Grant: (00000000-ac29519a-00000002-73cdfc8b) (0--1, 1791634952), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:33	Grant: (00000000-ac29519a-00000004-73cdfc8b) (0--1, 1791634952), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:33	Block commit:        87 (Hash: 0a78829f, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 202
+2026-10-10 17:22:34	Block commit:        88 (Hash: c17f049d, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 204
+2026-10-10 17:22:37	Block commit:        89 (Hash: e259a0fc, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 206
+2026-10-10 17:22:37	Grant: (00000000-035ce18f-00000002-73cdfc8b) (0--1, 1791634956), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:37	Grant: (00000000-035ce18f-00000004-73cdfc8b) (0--1, 1791634956), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:37	Mempool copy:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:37	Mempool ramv:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:37	Mempool copy:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:37	Mempool ramv:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool copy:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool ramv:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool copy:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool ramv:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool copy:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool clr :        89, Admin count: 1, Miner count: 3, Ledger Rows: 206
+2026-10-10 17:22:38	Mempool rstr:        89, Admin count: 1, Miner count: 3, Ledger Rows: 208
+2026-10-10 17:22:38	Mempool clr :        89, Admin count: 1, Miner count: 3, Ledger Rows: 206
+2026-10-10 17:22:38	Grant: (00000000-035ce18f-00000002-73cdfc8b) (0--1, 1791634956), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:38	Grant: (00000000-035ce18f-00000004-73cdfc8b) (0--1, 1791634956), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:38	Block commit:        90 (Hash: 1d39a8b6, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 210
+2026-10-10 17:22:39	Block commit:        91 (Hash: 6dc8b373, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 212
+2026-10-10 17:22:41	Block rollback:        90, Admin count: 1, Miner count: 3, Ledger Rows: 210
+2026-10-10 17:22:41	Block commit:        91 (Hash: e41c9544, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 212
+2026-10-10 17:22:41	Block commit:        92 (Hash: 2cd09252, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 214
+2026-10-10 17:22:42	Grant: (00000000-c72c799c-00000002-73cdfc8b) (0--1, 1791634961), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:42	Grant: (00000000-c72c799c-00000004-73cdfc8b) (0--1, 1791634961), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:44	Mempool copy:        92, Admin count: 1, Miner count: 3, Ledger Rows: 216
+2026-10-10 17:22:44	Mempool ramv:        92, Admin count: 1, Miner count: 3, Ledger Rows: 216
+2026-10-10 17:22:44	Mempool copy:        92, Admin count: 1, Miner count: 3, Ledger Rows: 216
+2026-10-10 17:22:44	Mempool ramv:        92, Admin count: 1, Miner count: 3, Ledger Rows: 216
+2026-10-10 17:22:44	Mempool copy:        92, Admin count: 1, Miner count: 3, Ledger Rows: 216
+2026-10-10 17:22:44	Mempool clr :        92, Admin count: 1, Miner count: 3, Ledger Rows: 214
+2026-10-10 17:22:44	Mempool rstr:        92, Admin count: 1, Miner count: 3, Ledger Rows: 216
+2026-10-10 17:22:44	Mempool clr :        92, Admin count: 1, Miner count: 3, Ledger Rows: 214
+2026-10-10 17:22:44	Grant: (00000000-c72c799c-00000002-73cdfc8b) (0--1, 1791634961), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:44	Grant: (00000000-c72c799c-00000004-73cdfc8b) (0--1, 1791634961), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:44	Block commit:        93 (Hash: f023ac17, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 218
+2026-10-10 17:22:46	Grant: (00000000-fc294537-00000002-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:46	Grant: (00000000-fc294537-00000004-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:46	Mempool copy:        93, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Mempool ramv:        93, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Mempool copy:        93, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Mempool ramv:        93, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Mempool copy:        93, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Mempool clr :        93, Admin count: 1, Miner count: 3, Ledger Rows: 218
+2026-10-10 17:22:46	Mempool rstr:        93, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Mempool clr :        93, Admin count: 1, Miner count: 3, Ledger Rows: 218
+2026-10-10 17:22:46	Block commit:        94 (Hash: 1b57d0e6, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:46	Grant: (00000000-fc294537-00000002-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:46	Grant: (00000000-fc294537-00000004-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:49	Mempool copy:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:49	Mempool ramv:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:49	Mempool copy:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:50	Mempool ramv:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:50	Mempool copy:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:50	Mempool clr :        94, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:50	Mempool rstr:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:50	Mempool clr :        94, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:50	Grant: (00000000-fc294537-00000002-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:50	Grant: (00000000-fc294537-00000004-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:50	Block commit:        95 (Hash: f6b821ee, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 224
+2026-10-10 17:22:52	Block rollback:        94, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:52	Grant: (00000000-fc294537-00000002-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:52	Grant: (00000000-fc294537-00000004-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:52	Mempool copy:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:52	Mempool clr :        94, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:52	Mempool rstr:        94, Admin count: 1, Miner count: 3, Ledger Rows: 222
+2026-10-10 17:22:52	Mempool clr :        94, Admin count: 1, Miner count: 3, Ledger Rows: 220
+2026-10-10 17:22:52	Grant: (00000000-fc294537-00000002-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:52	Grant: (00000000-fc294537-00000004-73cdfc8b) (0--1, 1791634965), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:22:52	Block commit:        95 (Hash: 2ea4a009, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 224
+2026-10-10 17:22:52	Block commit:        96 (Hash: f83a6ea0, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 226
+2026-10-10 17:22:54	Block commit:        97 (Hash: a5a12532, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 228
+2026-10-10 17:22:56	Block commit:        98 (Hash: 0a15b0af, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 230
+2026-10-10 17:22:57	Block commit:        99 (Hash: 76907316, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 232
+2026-10-10 17:22:59	Block commit:       100 (Hash: 24cebe31, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 234
+2026-10-10 17:23:02	Block commit:       101 (Hash: b83310d7, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 236
+2026-10-10 17:23:02	Block commit:       102 (Hash: 16098e1c, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 238
+2026-10-10 17:23:04	Block commit:       103 (Hash: 64b93492, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 240
+2026-10-10 17:23:07	Block commit:       104 (Hash: b05b1024, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 242
+2026-10-10 17:23:09	Block rollback:       103, Admin count: 1, Miner count: 3, Ledger Rows: 240
+2026-10-10 17:23:09	Block commit:       104 (Hash: 9fc610fb, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 242
+2026-10-10 17:23:09	Block commit:       105 (Hash: ec988d87, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 244
+2026-10-10 17:24:14	Grant: (2904e90b-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:14	Grant: (2904e90b-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:14	Grant: (2904e90b-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:14	Grant: (2904e90b-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:14	Grant: (2904e90b-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:18	Mempool copy:       105, Admin count: 1, Miner count: 3, Ledger Rows: 249
+2026-10-10 17:24:18	Mempool ramv:       105, Admin count: 1, Miner count: 3, Ledger Rows: 249
+2026-10-10 17:24:18	Mempool copy:       105, Admin count: 1, Miner count: 3, Ledger Rows: 249
+2026-10-10 17:24:18	Mempool ramv:       105, Admin count: 1, Miner count: 3, Ledger Rows: 249
+2026-10-10 17:24:18	Mempool copy:       105, Admin count: 1, Miner count: 3, Ledger Rows: 249
+2026-10-10 17:24:18	Mempool clr :       105, Admin count: 1, Miner count: 3, Ledger Rows: 244
+2026-10-10 17:24:18	Mempool rstr:       105, Admin count: 1, Miner count: 3, Ledger Rows: 249
+2026-10-10 17:24:18	Mempool clr :       105, Admin count: 1, Miner count: 3, Ledger Rows: 244
+2026-10-10 17:24:18	Grant: (2904e90b-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:18	Grant: (2904e90b-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:18	Grant: (2904e90b-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:18	Grant: (2904e90b-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:18	Grant: (2904e90b-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:18	Block commit:       106 (Hash: 1815eb7c, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 251
+2026-10-10 17:24:18	Block commit:       107 (Hash: d8b367af, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 253
+2026-10-10 17:24:19	Grant: (48bbd3f9-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:19	Grant: (48bbd3f9-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:19	Grant: (48bbd3f9-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:19	Grant: (48bbd3f9-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:19	Grant: (48bbd3f9-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:19	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:19	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:20	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:20	Mempool ramv:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:20	Mempool copy:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:20	Mempool clr :       107, Admin count: 1, Miner count: 3, Ledger Rows: 253
+2026-10-10 17:24:20	Mempool rstr:       107, Admin count: 1, Miner count: 3, Ledger Rows: 258
+2026-10-10 17:24:20	Mempool clr :       107, Admin count: 1, Miner count: 3, Ledger Rows: 253
+2026-10-10 17:24:20	Grant: (48bbd3f9-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:20	Grant: (48bbd3f9-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:20	Grant: (48bbd3f9-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:20	Grant: (48bbd3f9-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:20	Grant: (48bbd3f9-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:20	Block commit:       108 (Hash: 64cc4556, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 260
+2026-10-10 17:24:21	Block commit:       109 (Hash: 67527185, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 262
+2026-10-10 17:24:23	Block commit:       110 (Hash: c5515a8f, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 264
+2026-10-10 17:24:24	Grant: (b5ac18d0-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:24	Grant: (b5ac18d0-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:24	Grant: (b5ac18d0-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:24	Grant: (b5ac18d0-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:24	Grant: (b5ac18d0-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:25	Mempool copy:       110, Admin count: 1, Miner count: 3, Ledger Rows: 269
+2026-10-10 17:24:25	Mempool ramv:       110, Admin count: 1, Miner count: 3, Ledger Rows: 269
+2026-10-10 17:24:25	Mempool copy:       110, Admin count: 1, Miner count: 3, Ledger Rows: 269
+2026-10-10 17:24:25	Mempool ramv:       110, Admin count: 1, Miner count: 3, Ledger Rows: 269
+2026-10-10 17:24:25	Mempool copy:       110, Admin count: 1, Miner count: 3, Ledger Rows: 269
+2026-10-10 17:24:25	Mempool clr :       110, Admin count: 1, Miner count: 3, Ledger Rows: 264
+2026-10-10 17:24:25	Mempool rstr:       110, Admin count: 1, Miner count: 3, Ledger Rows: 269
+2026-10-10 17:24:25	Mempool clr :       110, Admin count: 1, Miner count: 3, Ledger Rows: 264
+2026-10-10 17:24:25	Grant: (b5ac18d0-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:25	Grant: (b5ac18d0-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:25	Grant: (b5ac18d0-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:25	Grant: (b5ac18d0-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:25	Grant: (b5ac18d0-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:24:25	Block commit:       111 (Hash: 9a733ce8, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 271
+2026-10-10 17:24:26	Block commit:       112 (Hash: 6a3a531d, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 273
+2026-10-10 17:24:28	Block commit:       113 (Hash: a9cd58d5, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 275
+2026-10-10 17:24:31	Block commit:       114 (Hash: 80b15c30, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 277
+2026-10-10 17:24:32	Block commit:       115 (Hash: 598e544d, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 279
+2026-10-10 17:24:34	Block commit:       116 (Hash: d9be08d2, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 281
+2026-10-10 17:24:35	Block commit:       117 (Hash: 71c153fd, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 283
+2026-10-10 17:24:38	Block commit:       118 (Hash: 1f1821fa, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 285
+2026-10-10 17:24:42	Block commit:       119 (Hash: d572d073, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 287
+2026-10-10 17:24:44	Block commit:       120 (Hash: adfa9133, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 289
+2026-10-10 17:24:46	Block commit:       121 (Hash: 7354d7f9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 291
+2026-10-10 17:24:47	Block commit:       122 (Hash: 7e6bc511, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 293
+2026-10-10 17:25:05	Grant: (af523e5f-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:05	Grant: (af523e5f-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:05	Grant: (af523e5f-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:05	Grant: (af523e5f-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:05	Grant: (af523e5f-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:08	Mempool copy:       122, Admin count: 1, Miner count: 3, Ledger Rows: 298
+2026-10-10 17:25:08	Mempool ramv:       122, Admin count: 1, Miner count: 3, Ledger Rows: 298
+2026-10-10 17:25:08	Mempool copy:       122, Admin count: 1, Miner count: 3, Ledger Rows: 298
+2026-10-10 17:25:08	Mempool ramv:       122, Admin count: 1, Miner count: 3, Ledger Rows: 298
+2026-10-10 17:25:08	Mempool copy:       122, Admin count: 1, Miner count: 3, Ledger Rows: 298
+2026-10-10 17:25:08	Mempool clr :       122, Admin count: 1, Miner count: 3, Ledger Rows: 293
+2026-10-10 17:25:08	Mempool rstr:       122, Admin count: 1, Miner count: 3, Ledger Rows: 298
+2026-10-10 17:25:08	Mempool clr :       122, Admin count: 1, Miner count: 3, Ledger Rows: 293
+2026-10-10 17:25:08	Grant: (af523e5f-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:08	Grant: (af523e5f-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:08	Grant: (af523e5f-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:08	Grant: (af523e5f-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:08	Grant: (af523e5f-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:08	Block commit:       123 (Hash: bd411a63, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 300
+2026-10-10 17:25:08	Block commit:       124 (Hash: fda4b277, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 302
+2026-10-10 17:25:10	Block commit:       125 (Hash: a2b713a7, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 304
+2026-10-10 17:25:11	Grant: (6b7d78f8-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:11	Grant: (6b7d78f8-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:11	Grant: (6b7d78f8-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:11	Grant: (6b7d78f8-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:11	Grant: (6b7d78f8-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:12	Mempool copy:       125, Admin count: 1, Miner count: 3, Ledger Rows: 309
+2026-10-10 17:25:12	Mempool ramv:       125, Admin count: 1, Miner count: 3, Ledger Rows: 309
+2026-10-10 17:25:12	Mempool copy:       125, Admin count: 1, Miner count: 3, Ledger Rows: 309
+2026-10-10 17:25:12	Mempool ramv:       125, Admin count: 1, Miner count: 3, Ledger Rows: 309
+2026-10-10 17:25:12	Mempool copy:       125, Admin count: 1, Miner count: 3, Ledger Rows: 309
+2026-10-10 17:25:12	Mempool clr :       125, Admin count: 1, Miner count: 3, Ledger Rows: 304
+2026-10-10 17:25:12	Mempool rstr:       125, Admin count: 1, Miner count: 3, Ledger Rows: 309
+2026-10-10 17:25:12	Mempool clr :       125, Admin count: 1, Miner count: 3, Ledger Rows: 304
+2026-10-10 17:25:12	Grant: (6b7d78f8-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:12	Grant: (6b7d78f8-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:12	Grant: (6b7d78f8-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:12	Grant: (6b7d78f8-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:12	Grant: (6b7d78f8-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:12	Block commit:       126 (Hash: 159068a8, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 311
+2026-10-10 17:25:15	Block commit:       127 (Hash: 57948687, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 313
+2026-10-10 17:25:16	Grant: (9e36be54-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Mempool copy:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:16	Mempool ramv:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:16	Mempool copy:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:16	Mempool ramv:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:16	Mempool copy:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:16	Mempool clr :       127, Admin count: 1, Miner count: 3, Ledger Rows: 313
+2026-10-10 17:25:16	Mempool rstr:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:16	Mempool clr :       127, Admin count: 1, Miner count: 3, Ledger Rows: 313
+2026-10-10 17:25:16	Block commit:       128 (Hash: 46793a1c, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 315
+2026-10-10 17:25:16	Grant: (9e36be54-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:16	Grant: (9e36be54-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:17	Mempool copy:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:17	Mempool ramv:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:17	Mempool copy:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:17	Mempool ramv:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool copy:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool ramv:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool copy:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool ramv:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool copy:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool clr :       128, Admin count: 1, Miner count: 3, Ledger Rows: 315
+2026-10-10 17:25:18	Mempool rstr:       128, Admin count: 1, Miner count: 3, Ledger Rows: 320
+2026-10-10 17:25:18	Mempool clr :       128, Admin count: 1, Miner count: 3, Ledger Rows: 315
+2026-10-10 17:25:18	Grant: (9e36be54-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:18	Grant: (9e36be54-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:18	Grant: (9e36be54-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:18	Grant: (9e36be54-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:18	Grant: (9e36be54-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:18	Block commit:       129 (Hash: 02e00140, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 322
+2026-10-10 17:25:19	Block rollback:       128, Admin count: 1, Miner count: 3, Ledger Rows: 315
+2026-10-10 17:25:19	Grant: (9e36be54-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Mempool clr :       128, Admin count: 1, Miner count: 3, Ledger Rows: 315
+2026-10-10 17:25:19	Block rollback:       127, Admin count: 1, Miner count: 3, Ledger Rows: 313
+2026-10-10 17:25:19	Grant: (9e36be54-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Mempool copy:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:19	Mempool clr :       127, Admin count: 1, Miner count: 3, Ledger Rows: 313
+2026-10-10 17:25:19	Mempool rstr:       127, Admin count: 1, Miner count: 3, Ledger Rows: 318
+2026-10-10 17:25:19	Mempool clr :       127, Admin count: 1, Miner count: 3, Ledger Rows: 313
+2026-10-10 17:25:19	Block commit:       128 (Hash: e6123aba, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 315
+2026-10-10 17:25:19	Grant: (9e36be54-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00000008-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00000080-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:19	Grant: (9e36be54-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:25:20	Block commit:       129 (Hash: ac3f7235, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 322
+2026-10-10 17:25:20	Block commit:       130 (Hash: 2d7a6d43, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 324
+2026-10-10 17:25:21	Block commit:       131 (Hash: 65788cea, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 326
+2026-10-10 17:25:23	Block commit:       132 (Hash: f434f1c3, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 328
+2026-10-10 17:25:25	Block commit:       133 (Hash: 77aa6c35, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 330
+2026-10-10 17:25:27	Block commit:       134 (Hash: 762fddd1, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 332
+2026-10-10 17:25:31	Block commit:       135 (Hash: 2cec2817, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 334
+2026-10-10 17:25:33	Block commit:       136 (Hash: 43a7373a, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 336
+2026-10-10 17:25:35	Block commit:       137 (Hash: 35cf7cc2, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 338
+2026-10-10 17:25:37	Block commit:       138 (Hash: a677af0b, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 340
+2026-10-10 17:25:38	Block commit:       139 (Hash: 30c70cb9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 342
+2026-10-10 17:25:41	Block rollback:       138, Admin count: 1, Miner count: 3, Ledger Rows: 340
+2026-10-10 17:25:41	Block commit:       139 (Hash: caf340e0, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 342
+2026-10-10 17:25:41	Block commit:       140 (Hash: 9ddcd917, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 344
+2026-10-10 17:28:26	Grant: (48bbd3f9-b8a67394-00000008-73cdfc8b) (0--1, 1791635305), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:26	Grant: (48bbd3f9-ac29519a-00000008-73cdfc8b) (0--1, 1791635306), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:27	Grant: (48bbd3f9-035ce18f-00000008-73cdfc8b) (0--1, 1791635306), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:27	Grant: (48bbd3f9-c72c799c-00000008-73cdfc8b) (0--1, 1791635307), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:28	Grant: (48bbd3f9-fc294537-00000008-73cdfc8b) (0--1, 1791635307), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:29	Mempool copy:       140, Admin count: 1, Miner count: 3, Ledger Rows: 349
+2026-10-10 17:28:29	Mempool ramv:       140, Admin count: 1, Miner count: 3, Ledger Rows: 349
+2026-10-10 17:28:29	Mempool copy:       140, Admin count: 1, Miner count: 3, Ledger Rows: 349
+2026-10-10 17:28:29	Mempool ramv:       140, Admin count: 1, Miner count: 3, Ledger Rows: 349
+2026-10-10 17:28:29	Mempool copy:       140, Admin count: 1, Miner count: 3, Ledger Rows: 349
+2026-10-10 17:28:29	Mempool clr :       140, Admin count: 1, Miner count: 3, Ledger Rows: 344
+2026-10-10 17:28:29	Mempool rstr:       140, Admin count: 1, Miner count: 3, Ledger Rows: 349
+2026-10-10 17:28:29	Mempool clr :       140, Admin count: 1, Miner count: 3, Ledger Rows: 344
+2026-10-10 17:28:29	Grant: (48bbd3f9-b8a67394-00000008-73cdfc8b) (0--1, 1791635305), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:29	Grant: (48bbd3f9-ac29519a-00000008-73cdfc8b) (0--1, 1791635306), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:29	Grant: (48bbd3f9-035ce18f-00000008-73cdfc8b) (0--1, 1791635306), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:29	Grant: (48bbd3f9-c72c799c-00000008-73cdfc8b) (0--1, 1791635307), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:29	Grant: (48bbd3f9-fc294537-00000008-73cdfc8b) (0--1, 1791635307), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:29	Block commit:       141 (Hash: c825bed1, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 351
+2026-10-10 17:28:30	Block commit:       142 (Hash: 75140a88, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 353
+2026-10-10 17:28:32	Block commit:       143 (Hash: c2df7739, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 355
+2026-10-10 17:28:34	Block commit:       144 (Hash: 037f6a10, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 357
+2026-10-10 17:28:34	Block commit:       145 (Hash: 50edc901, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 359
+2026-10-10 17:28:37	Block rollback:       144, Admin count: 1, Miner count: 3, Ledger Rows: 357
+2026-10-10 17:28:37	Block commit:       145 (Hash: 8f295882, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 359
+2026-10-10 17:28:37	Block commit:       146 (Hash: 07d4b2d9, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 361
+2026-10-10 17:28:37	Block commit:       147 (Hash: 1f46c955, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 363
+2026-10-10 17:28:38	Grant: (af523e5f-b8a67394-00000008-73cdfc8b) (0--1, 1791635317), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:38	Mempool copy:       147, Admin count: 1, Miner count: 3, Ledger Rows: 364
+2026-10-10 17:28:38	Mempool ramv:       147, Admin count: 1, Miner count: 3, Ledger Rows: 364
+2026-10-10 17:28:38	Mempool copy:       147, Admin count: 1, Miner count: 3, Ledger Rows: 364
+2026-10-10 17:28:38	Mempool ramv:       147, Admin count: 1, Miner count: 3, Ledger Rows: 364
+2026-10-10 17:28:38	Grant: (af523e5f-ac29519a-00000008-73cdfc8b) (0--1, 1791635318), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:39	Mempool copy:       147, Admin count: 1, Miner count: 3, Ledger Rows: 365
+2026-10-10 17:28:39	Mempool ramv:       147, Admin count: 1, Miner count: 3, Ledger Rows: 365
+2026-10-10 17:28:39	Mempool copy:       147, Admin count: 1, Miner count: 3, Ledger Rows: 365
+2026-10-10 17:28:39	Mempool ramv:       147, Admin count: 1, Miner count: 3, Ledger Rows: 365
+2026-10-10 17:28:39	Mempool copy:       147, Admin count: 1, Miner count: 3, Ledger Rows: 365
+2026-10-10 17:28:39	Mempool clr :       147, Admin count: 1, Miner count: 3, Ledger Rows: 363
+2026-10-10 17:28:39	Mempool rstr:       147, Admin count: 1, Miner count: 3, Ledger Rows: 365
+2026-10-10 17:28:39	Mempool clr :       147, Admin count: 1, Miner count: 3, Ledger Rows: 363
+2026-10-10 17:28:39	Grant: (af523e5f-b8a67394-00000008-73cdfc8b) (0--1, 1791635317), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:39	Grant: (af523e5f-ac29519a-00000008-73cdfc8b) (0--1, 1791635318), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:39	Block commit:       148 (Hash: 1a94ab80, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 367
+2026-10-10 17:28:39	Grant: (af523e5f-035ce18f-00000008-73cdfc8b) (0--1, 1791635319), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:40	Mempool copy:       148, Admin count: 1, Miner count: 3, Ledger Rows: 368
+2026-10-10 17:28:40	Mempool ramv:       148, Admin count: 1, Miner count: 3, Ledger Rows: 368
+2026-10-10 17:28:40	Mempool copy:       148, Admin count: 1, Miner count: 3, Ledger Rows: 368
+2026-10-10 17:28:40	Mempool ramv:       148, Admin count: 1, Miner count: 3, Ledger Rows: 368
+2026-10-10 17:28:40	Mempool copy:       148, Admin count: 1, Miner count: 3, Ledger Rows: 368
+2026-10-10 17:28:40	Mempool clr :       148, Admin count: 1, Miner count: 3, Ledger Rows: 367
+2026-10-10 17:28:40	Mempool rstr:       148, Admin count: 1, Miner count: 3, Ledger Rows: 368
+2026-10-10 17:28:40	Mempool clr :       148, Admin count: 1, Miner count: 3, Ledger Rows: 367
+2026-10-10 17:28:40	Grant: (af523e5f-035ce18f-00000008-73cdfc8b) (0--1, 1791635319), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:40	Block commit:       149 (Hash: 017b06e0, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 370
+2026-10-10 17:28:41	Grant: (af523e5f-c72c799c-00000008-73cdfc8b) (0--1, 1791635319), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:41	Grant: (af523e5f-fc294537-00000008-73cdfc8b) (0--1, 1791635320), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:43	Mempool copy:       149, Admin count: 1, Miner count: 3, Ledger Rows: 372
+2026-10-10 17:28:43	Mempool ramv:       149, Admin count: 1, Miner count: 3, Ledger Rows: 372
+2026-10-10 17:28:43	Mempool copy:       149, Admin count: 1, Miner count: 3, Ledger Rows: 372
+2026-10-10 17:28:43	Mempool ramv:       149, Admin count: 1, Miner count: 3, Ledger Rows: 372
+2026-10-10 17:28:43	Mempool copy:       149, Admin count: 1, Miner count: 3, Ledger Rows: 372
+2026-10-10 17:28:43	Mempool clr :       149, Admin count: 1, Miner count: 3, Ledger Rows: 370
+2026-10-10 17:28:43	Mempool rstr:       149, Admin count: 1, Miner count: 3, Ledger Rows: 372
+2026-10-10 17:28:43	Mempool clr :       149, Admin count: 1, Miner count: 3, Ledger Rows: 370
+2026-10-10 17:28:43	Grant: (af523e5f-c72c799c-00000008-73cdfc8b) (0--1, 1791635319), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:43	Grant: (af523e5f-fc294537-00000008-73cdfc8b) (0--1, 1791635320), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:43	Block commit:       150 (Hash: 9815cc52, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 374
+2026-10-10 17:28:44	Block commit:       151 (Hash: 2ee11f39, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 376
+2026-10-10 17:28:44	Grant: (b5ac18d0-b885194b-00000008-73cdfc8b) (0--1, 1791635323), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:45	Mempool copy:       151, Admin count: 1, Miner count: 3, Ledger Rows: 377
+2026-10-10 17:28:45	Mempool ramv:       151, Admin count: 1, Miner count: 3, Ledger Rows: 377
+2026-10-10 17:28:45	Mempool copy:       151, Admin count: 1, Miner count: 3, Ledger Rows: 377
+2026-10-10 17:28:45	Mempool ramv:       151, Admin count: 1, Miner count: 3, Ledger Rows: 377
+2026-10-10 17:28:45	Grant: (9e36be54-b885194b-00000008-73cdfc8b) (0--1, 1791635324), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Mempool copy:       151, Admin count: 1, Miner count: 3, Ledger Rows: 378
+2026-10-10 17:28:46	Mempool ramv:       151, Admin count: 1, Miner count: 3, Ledger Rows: 378
+2026-10-10 17:28:46	Mempool copy:       151, Admin count: 1, Miner count: 3, Ledger Rows: 378
+2026-10-10 17:28:46	Mempool ramv:       151, Admin count: 1, Miner count: 3, Ledger Rows: 378
+2026-10-10 17:28:46	Mempool clr :       151, Admin count: 1, Miner count: 3, Ledger Rows: 376
+2026-10-10 17:28:46	Block rollback:       150, Admin count: 1, Miner count: 3, Ledger Rows: 374
+2026-10-10 17:28:46	Grant: (b5ac18d0-b885194b-00000008-73cdfc8b) (0--1, 1791635323), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Grant: (9e36be54-b885194b-00000008-73cdfc8b) (0--1, 1791635324), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Mempool clr :       150, Admin count: 1, Miner count: 3, Ledger Rows: 374
+2026-10-10 17:28:46	Block rollback:       149, Admin count: 1, Miner count: 3, Ledger Rows: 370
+2026-10-10 17:28:46	Grant: (af523e5f-c72c799c-00000008-73cdfc8b) (0--1, 1791635319), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Grant: (af523e5f-fc294537-00000008-73cdfc8b) (0--1, 1791635320), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Grant: (b5ac18d0-b885194b-00000008-73cdfc8b) (0--1, 1791635323), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Grant: (9e36be54-b885194b-00000008-73cdfc8b) (0--1, 1791635324), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Mempool copy:       149, Admin count: 1, Miner count: 3, Ledger Rows: 374
+2026-10-10 17:28:46	Mempool clr :       149, Admin count: 1, Miner count: 3, Ledger Rows: 370
+2026-10-10 17:28:46	Mempool rstr:       149, Admin count: 1, Miner count: 3, Ledger Rows: 374
+2026-10-10 17:28:46	Mempool clr :       149, Admin count: 1, Miner count: 3, Ledger Rows: 370
+2026-10-10 17:28:46	Grant: (af523e5f-c72c799c-00000008-73cdfc8b) (0--1, 1791635319), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Grant: (af523e5f-fc294537-00000008-73cdfc8b) (0--1, 1791635320), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Block commit:       150 (Hash: d7a22957, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 374
+2026-10-10 17:28:46	Grant: (b5ac18d0-b885194b-00000008-73cdfc8b) (0--1, 1791635323), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Block commit:       151 (Hash: 4493b43d, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 377
+2026-10-10 17:28:46	Grant: (9e36be54-b885194b-00000008-73cdfc8b) (0--1, 1791635324), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:46	Block commit:       152 (Hash: b68abd01, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 380
+2026-10-10 17:28:50	Block commit:       153 (Hash: 811d9109, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 382
+2026-10-10 17:28:52	Block commit:       154 (Hash: c5c62236, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 384
+2026-10-10 17:28:53	Grant: (b5ac18d0-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635332), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:53	Grant: (9e36be54-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635333), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:54	Mempool copy:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:54	Mempool ramv:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:54	Mempool copy:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:54	Mempool ramv:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:54	Mempool copy:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:54	Mempool clr :       154, Admin count: 1, Miner count: 3, Ledger Rows: 384
+2026-10-10 17:28:54	Mempool rstr:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:54	Mempool clr :       154, Admin count: 1, Miner count: 3, Ledger Rows: 384
+2026-10-10 17:28:54	Grant: (b5ac18d0-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635332), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:54	Grant: (9e36be54-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635333), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:54	Block commit:       155 (Hash: 5a89d9d9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 388
+2026-10-10 17:28:56	Block commit:       156 (Hash: 2ed259d2, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 390
+2026-10-10 17:28:59	Block rollback:       155, Admin count: 1, Miner count: 3, Ledger Rows: 388
+2026-10-10 17:28:59	Block rollback:       154, Admin count: 1, Miner count: 3, Ledger Rows: 384
+2026-10-10 17:28:59	Grant: (b5ac18d0-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635332), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:59	Grant: (9e36be54-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635333), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:59	Mempool copy:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:59	Mempool clr :       154, Admin count: 1, Miner count: 3, Ledger Rows: 384
+2026-10-10 17:28:59	Mempool rstr:       154, Admin count: 1, Miner count: 3, Ledger Rows: 386
+2026-10-10 17:28:59	Mempool clr :       154, Admin count: 1, Miner count: 3, Ledger Rows: 384
+2026-10-10 17:28:59	Grant: (b5ac18d0-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635332), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:59	Grant: (9e36be54-8ad15fe5-00000008-73cdfc8b) (0--1, 1791635333), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:28:59	Block commit:       155 (Hash: c15d4ab3, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 388
+2026-10-10 17:28:59	Block commit:       156 (Hash: 4547440d, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 390
+2026-10-10 17:28:59	Block commit:       157 (Hash: 11173eda, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 392
+2026-10-10 17:29:01	Block commit:       158 (Hash: b05c8036, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 394
+2026-10-10 17:29:03	Block commit:       159 (Hash: 78526124, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 396
+2026-10-10 17:29:05	Block rollback:       158, Admin count: 1, Miner count: 3, Ledger Rows: 394
+2026-10-10 17:29:05	Block commit:       159 (Hash: d7f8df80, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 396
+2026-10-10 17:29:05	Block commit:       160 (Hash: c02bf0a1, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 398
+2026-10-10 17:29:07	Block commit:       161 (Hash: c5f28bde, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 400
+2026-10-10 17:29:08	Block commit:       162 (Hash: dd42e6e2, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 402
+2026-10-10 17:29:12	Block commit:       163 (Hash: fe6a4507, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 404
+2026-10-10 17:29:13	Block rollback:       162, Admin count: 1, Miner count: 3, Ledger Rows: 402
+2026-10-10 17:29:13	Block rollback:       161, Admin count: 1, Miner count: 3, Ledger Rows: 400
+2026-10-10 17:29:13	Block commit:       162 (Hash: 1f8cd525, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 402
+2026-10-10 17:29:13	Block commit:       163 (Hash: 0939615a, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 404
+2026-10-10 17:29:13	Block commit:       164 (Hash: ce1594dc, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 406
+2026-10-10 17:29:17	Block commit:       165 (Hash: 0c7cd764, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 408
+2026-10-10 17:29:18	Block rollback:       164, Admin count: 1, Miner count: 3, Ledger Rows: 406
+2026-10-10 17:29:18	Block commit:       165 (Hash: eaf2bc5a, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 408
+2026-10-10 17:29:18	Block commit:       166 (Hash: f6a7e3b9, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 410
+2026-10-10 17:29:20	Block commit:       167 (Hash: ad2bc21f, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 412
+2026-10-10 17:29:21	Block commit:       168 (Hash: b4a9c737, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 414
+2026-10-10 17:29:24	Block commit:       169 (Hash: 57d61579, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 416
+2026-10-10 17:29:40	Block commit:       170 (Hash: fa6e3a08, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 418
+2026-10-10 17:29:43	Block commit:       171 (Hash: 20c7c130, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 420
+2026-10-10 17:29:44	Block commit:       172 (Hash: 8bd0fd60, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 422
+2026-10-10 17:29:45	Block commit:       173 (Hash: b476874b, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 424
+2026-10-10 17:29:46	Block commit:       174 (Hash: d15275fd, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 426
+2026-10-10 17:29:48	Block commit:       175 (Hash: f557a7ea, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 428
+2026-10-10 17:29:50	Block commit:       176 (Hash: 65c11101, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 430
+2026-10-10 17:29:51	Block commit:       177 (Hash: 9b5d3036, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 432
+2026-10-10 17:29:52	Block commit:       178 (Hash: f769f2db, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 434
+2026-10-10 17:29:55	Block commit:       179 (Hash: b60c35b1, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 436
+2026-10-10 17:29:57	Block rollback:       178, Admin count: 1, Miner count: 3, Ledger Rows: 434
+2026-10-10 17:29:57	Block commit:       179 (Hash: ef9e119b, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 436
+2026-10-10 17:29:57	Block commit:       180 (Hash: d8c18587, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 438
+2026-10-10 17:30:01	Block commit:       181 (Hash: 506478a4, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 440
+2026-10-10 17:30:03	Block commit:       182 (Hash: ec3d9ff9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 442
+2026-10-10 17:30:05	Block rollback:       181, Admin count: 1, Miner count: 3, Ledger Rows: 440
+2026-10-10 17:30:05	Block rollback:       180, Admin count: 1, Miner count: 3, Ledger Rows: 438
+2026-10-10 17:30:06	Block commit:       181 (Hash: 2f176b48, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 440
+2026-10-10 17:30:06	Block commit:       182 (Hash: b801edca, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 442
+2026-10-10 17:30:06	Block commit:       183 (Hash: a01523a1, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 444
+2026-10-10 17:30:06	Block commit:       184 (Hash: aae74f4a, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 446
+2026-10-10 17:30:09	Block commit:       185 (Hash: 0fc80f59, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 448
+2026-10-10 17:30:12	Block commit:       186 (Hash: 1de592e9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 450
+2026-10-10 17:30:13	Block commit:       187 (Hash: ab472f9b, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 452
+2026-10-10 17:30:15	Block commit:       188 (Hash: bfc6fde8, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 454
+2026-10-10 17:30:17	Block commit:       189 (Hash: dda1a170, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 456
+2026-10-10 17:30:20	Block commit:       190 (Hash: 8c87c54f, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 458
+2026-10-10 17:30:22	Block rollback:       189, Admin count: 1, Miner count: 3, Ledger Rows: 456
+2026-10-10 17:30:22	Block commit:       190 (Hash: e0f19ea5, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 458
+2026-10-10 17:30:22	Block commit:       191 (Hash: f1b7fa2c, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 460
+2026-10-10 17:31:18	Grant: (d19a4e7c-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:18	Grant: (d19a4e7c-73cdfc8b-00000002-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:18	Grant: (d19a4e7c-73cdfc8b-00000004-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:18	Grant: (d19a4e7c-73cdfc8b-00000010-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:18	Grant: (d19a4e7c-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:18	Grant: (d19a4e7c-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Mempool copy:       191, Admin count: 1, Miner count: 3, Ledger Rows: 466
+2026-10-10 17:31:22	Mempool ramv:       191, Admin count: 1, Miner count: 3, Ledger Rows: 466
+2026-10-10 17:31:22	Mempool copy:       191, Admin count: 1, Miner count: 3, Ledger Rows: 466
+2026-10-10 17:31:22	Mempool ramv:       191, Admin count: 1, Miner count: 3, Ledger Rows: 466
+2026-10-10 17:31:22	Mempool copy:       191, Admin count: 1, Miner count: 3, Ledger Rows: 466
+2026-10-10 17:31:22	Mempool clr :       191, Admin count: 1, Miner count: 3, Ledger Rows: 460
+2026-10-10 17:31:22	Mempool rstr:       191, Admin count: 1, Miner count: 3, Ledger Rows: 466
+2026-10-10 17:31:22	Mempool clr :       191, Admin count: 1, Miner count: 3, Ledger Rows: 460
+2026-10-10 17:31:22	Grant: (d19a4e7c-00000000-00000001-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Grant: (d19a4e7c-73cdfc8b-00000002-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Grant: (d19a4e7c-73cdfc8b-00000004-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Grant: (d19a4e7c-73cdfc8b-00000010-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Grant: (d19a4e7c-73cdfc8b-00002000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Grant: (d19a4e7c-73cdfc8b-00001000-73cdfc8b) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 3
+2026-10-10 17:31:22	Block commit:       192 (Hash: 6d5f71aa, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 468
+2026-10-10 17:31:24	Block commit:       193 (Hash: 13a8239b, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 470
+2026-10-10 17:31:25	Block commit:       194 (Hash: f9c3ecc6, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 472
+2026-10-10 17:31:28	Block commit:       195 (Hash: b99c0506, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 474
+2026-10-10 17:31:29	Block rollback:       194, Admin count: 1, Miner count: 3, Ledger Rows: 472
+2026-10-10 17:31:29	Block commit:       195 (Hash: daa682ce, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 474
+2026-10-10 17:31:29	Block commit:       196 (Hash: b57da0cb, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 476
+2026-10-10 17:31:30	Block commit:       197 (Hash: 924579ea, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 478
+2026-10-10 17:31:32	Block commit:       198 (Hash: 3a09ad6c, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 480
+2026-10-10 17:31:34	Block commit:       199 (Hash: 28b70627, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 482
+2026-10-10 17:31:35	Block commit:       200 (Hash: 8d0cd0be, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 484
+2026-10-10 17:31:36	Block rollback:       199, Admin count: 1, Miner count: 3, Ledger Rows: 482
+2026-10-10 17:31:36	Block rollback:       198, Admin count: 1, Miner count: 3, Ledger Rows: 480
+2026-10-10 17:31:37	Block commit:       199 (Hash: 37de8048, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 482
+2026-10-10 17:31:37	Block commit:       200 (Hash: a48ab4fc, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 484
+2026-10-10 17:31:37	Block commit:       201 (Hash: a8675e53, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 486
+2026-10-10 17:31:38	Block commit:       202 (Hash: 9faa1be7, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 488
+2026-10-10 17:36:46	Block commit:       203 (Hash: e38829ce, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 490
+2026-10-10 17:36:48	Block commit:       204 (Hash: 2e44cd1c, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 492
+2026-10-10 17:36:51	Block commit:       205 (Hash: 97d3c44d, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 494
+2026-10-10 17:36:52	Block commit:       206 (Hash: fdd766d2, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 496
+2026-10-10 17:36:53	Block commit:       207 (Hash: 948d86c3, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 498
+2026-10-10 17:36:55	Block commit:       208 (Hash: cdf7ceed, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 500
+2026-10-10 17:36:57	Block commit:       209 (Hash: 5a67b558, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 502
+2026-10-10 17:36:57	Block commit:       210 (Hash: 25e632b5, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 504
+2026-10-10 17:37:00	Block commit:       211 (Hash: b37127a8, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 506
+2026-10-10 17:37:00	Block commit:       212 (Hash: 6f65c899, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 508
+2026-10-10 17:37:02	Block rollback:       211, Admin count: 1, Miner count: 3, Ledger Rows: 506
+2026-10-10 17:37:02	Block commit:       212 (Hash: 4a5831d6, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 508
+2026-10-10 17:37:02	Block commit:       213 (Hash: d49857ec, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 510
+2026-10-10 17:37:04	Block commit:       214 (Hash: f2a7c37c, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 512
+2026-10-10 17:37:08	Block commit:       215 (Hash: 7632cbb1, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 514
+2026-10-10 17:37:11	Block commit:       216 (Hash: 697e4091, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 516
+2026-10-10 17:37:12	Block commit:       217 (Hash: aab7700d, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 518
+2026-10-10 17:37:14	Block commit:       218 (Hash: c5515b47, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 520
+2026-10-10 17:37:17	Block commit:       219 (Hash: b4abb1e2, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 522
+2026-10-10 17:37:19	Block rollback:       218, Admin count: 1, Miner count: 3, Ledger Rows: 520
+2026-10-10 17:37:19	Block commit:       219 (Hash: 87e6897d, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 522
+2026-10-10 17:37:19	Block commit:       220 (Hash: ba76674a, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 524
+2026-10-10 17:37:21	Block commit:       221 (Hash: f10b55b0, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 526
+2026-10-10 17:37:23	Block commit:       222 (Hash: 21850572, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 528
+2026-10-10 17:37:24	Block commit:       223 (Hash: 4d5d2745, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 530
+2026-10-10 17:37:27	Block commit:       224 (Hash: e5f25086, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 532
+2026-10-10 17:37:29	Block commit:       225 (Hash: d4adf1c6, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 534
+2026-10-10 17:37:32	Block commit:       226 (Hash: 0cc3a32a, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 536
+2026-10-10 17:37:33	Block commit:       227 (Hash: 7aa743ad, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 538
+2026-10-10 17:37:35	Block commit:       228 (Hash: f7eb9d46, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 540
+2026-10-10 17:37:38	Block commit:       229 (Hash: ec4e0003, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 542
+2026-10-10 17:37:39	Block commit:       230 (Hash: a181b1ee, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 544
+2026-10-10 17:40:23	Block commit:       231 (Hash: 70658d00, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 546
+2026-10-10 17:40:25	Block commit:       232 (Hash: f9767e15, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 548
+2026-10-10 17:40:28	Block commit:       233 (Hash: f2b632f3, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 550
+2026-10-10 17:40:29	Block commit:       234 (Hash: ceab32c7, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 552
+2026-10-10 17:40:32	Block commit:       235 (Hash: 01f1d0e9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 554
+2026-10-10 17:40:33	Block commit:       236 (Hash: 335cf8fb, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 556
+2026-10-10 17:40:33	Block commit:       237 (Hash: 247efcc3, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 558
+2026-10-10 17:40:35	Block commit:       238 (Hash: b178cf22, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 560
+2026-10-10 17:40:37	Block commit:       239 (Hash: fb4a7004, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 562
+2026-10-10 17:40:38	Block commit:       240 (Hash: 0609c8a4, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 564
+2026-10-10 17:40:41	Block commit:       241 (Hash: c707f5d8, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 566
+2026-10-10 17:40:41	Block commit:       242 (Hash: a695f13c, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 568
+2026-10-10 17:40:45	Block commit:       243 (Hash: 7fbda417, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 570
+2026-10-10 17:40:49	Block commit:       244 (Hash: 6bbe4d3d, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 572
+2026-10-10 17:40:50	Block commit:       245 (Hash: af4b9b02, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 574
+2026-10-10 17:40:52	Block commit:       246 (Hash: aafcb4de, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 576
+2026-10-10 17:40:54	Block commit:       247 (Hash: 51d6b15f, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 578
+2026-10-10 17:40:55	Block commit:       248 (Hash: 4284b1e2, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 580
+2026-10-10 17:40:58	Block commit:       249 (Hash: 53c906e1, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 582
+2026-10-10 17:41:01	Block commit:       250 (Hash: bfd9269c, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 584
+2026-10-10 17:41:02	Block commit:       251 (Hash: 8ac16f2c, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 586
+2026-10-10 17:41:05	Block commit:       252 (Hash: 81c4c62c, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 588
+2026-10-10 17:41:06	Block commit:       253 (Hash: 77dc011a, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 590
+2026-10-10 17:41:09	Block commit:       254 (Hash: b29d3ffb, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 592
+2026-10-10 17:41:11	Block commit:       255 (Hash: c35832ca, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 594
+2026-10-10 17:41:13	Block commit:       256 (Hash: 85398f29, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 596
+2026-10-10 17:41:16	Block commit:       257 (Hash: d501fb00, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 598
+2026-10-10 17:41:16	Block commit:       258 (Hash: 87637f40, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 600
+2026-10-10 17:41:19	Block commit:       259 (Hash: e0ddd567, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 602
+2026-10-10 17:41:21	Block rollback:       258, Admin count: 1, Miner count: 3, Ledger Rows: 600
+2026-10-10 17:41:21	Block commit:       259 (Hash: 0535e79a, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 602
+2026-10-10 17:41:21	Block commit:       260 (Hash: 26860da9, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 604
+2026-10-10 17:41:24	Block commit:       261 (Hash: 92b9403f, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 606
+2026-10-10 17:41:27	Block commit:       262 (Hash: 0783e731, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 608
+2026-10-10 17:41:28	Block commit:       263 (Hash: cd00e437, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 610
+2026-10-10 17:41:30	Block commit:       264 (Hash: 2bcefb57, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 612
+2026-10-10 17:41:32	Block commit:       265 (Hash: 588db15d, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 614
+2026-10-10 17:41:34	Block rollback:       264, Admin count: 1, Miner count: 3, Ledger Rows: 612
+2026-10-10 17:41:34	Block commit:       265 (Hash: f402695c, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 614
+2026-10-10 17:41:35	Block commit:       266 (Hash: 459c746d, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 616
+2026-10-10 17:41:36	Block commit:       267 (Hash: 7f2088e9, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 618
+2026-10-10 17:41:39	Block commit:       268 (Hash: e36e4801, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 620
+2026-10-10 17:41:40	Block rollback:       267, Admin count: 1, Miner count: 3, Ledger Rows: 618
+2026-10-10 17:41:41	Block commit:       268 (Hash: ba9086af, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 620
+2026-10-10 17:41:41	Block commit:       269 (Hash: e0a5ba0f, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 622
+2026-10-10 17:41:43	Block commit:       270 (Hash: 8b23417d, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 624
+2026-10-10 17:41:46	Block commit:       271 (Hash: 7f589248, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 626
+2026-10-10 17:41:49	Block commit:       272 (Hash: 42fdaa63, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 628
+2026-10-10 17:41:50	Block rollback:       271, Admin count: 1, Miner count: 3, Ledger Rows: 626
+2026-10-10 17:41:50	Block commit:       272 (Hash: 4dc26e1f, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 628
+2026-10-10 17:41:51	Block commit:       273 (Hash: 28e4c6f9, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 630
+2026-10-10 17:41:51	Block commit:       274 (Hash: f4df7cf0, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 632
+2026-10-10 17:41:53	Block rollback:       273, Admin count: 1, Miner count: 3, Ledger Rows: 630
+2026-10-10 17:41:53	Block commit:       274 (Hash: 5634e056, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 632
+2026-10-10 17:41:53	Block commit:       275 (Hash: 3b003d15, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 634
+2026-10-10 17:41:56	Block commit:       276 (Hash: 63aa4010, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 636
+2026-10-10 17:41:58	Block commit:       277 (Hash: 19109d1e, Miner: 8ad15fe5), Admin count: 1, Miner count: 3, Ledger Rows: 638
+2026-10-10 17:41:59	Block commit:       278 (Hash: 6cfe5a08, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 640
+2026-10-10 17:42:02	Block commit:       279 (Hash: 4956571a, Miner: 73cdfc8b), Admin count: 1, Miner count: 3, Ledger Rows: 642
+2026-10-10 17:42:05	Block commit:       280 (Hash: 5615b3c5, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 644
+2026-10-10 17:42:06	Block commit:       281 (Hash: ed1cd72b, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 646
+2026-10-10 17:42:08	Block commit:       282 (Hash: ddb0c286, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 648
+2026-10-10 17:42:11	Block commit:       283 (Hash: b3140c37, Miner: b885194b), Admin count: 1, Miner count: 3, Ledger Rows: 650
